@@ -1,119 +1,252 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "Airplay Feature" : {
-      "comment" : "airplay feature comment"
-    },
-    "car count %lld" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
+    "sourceLanguage": "en",
+    "strings": {
+        "Airplay Feature": {
+            "comment": "airplay feature comment",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay Feature"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Función Airplay"
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
             }
-          }
-        }
-      }
-    },
-    "CarPlay Updates" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "CarPlay Updates"
+        },
+        "CarPlay Updates": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "es": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "Actualizaciones de CarPlay"
+                                }
+                            }
+                        }
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "CarPlay Updates"
-                }
-              }
             }
-          }
+        },
+        "Channels in Library": {
+            "comment": "channel title",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Channels in Library"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Canales en Biblioteca"
+                    }
+                }
+            }
+        },
+        "Continue": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continue"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continuar"
+                    }
+                }
+            }
+        },
+        "Easily access followed shows and more from your channels.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Accede fácilmente a los programas seguidos y más desde tus canales."
+                    }
+                }
+            }
+        },
+        "Improved Up Next": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Improved Up Next"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Mejorado a continuación"
+                    }
+                }
+            }
+        },
+        "Play your content on devices remotely.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Play your content on devices remotely."
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Reproduce tu contenido en dispositivos de forma remota."
+                    }
+                }
+            }
+        },
+        "Quickly pick up where you left off or find new shows in Browse.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Retome rápidamente donde lo dejó o encuentre nuevos programas en Navegar."
+                    }
+                }
+            }
+        },
+        "Resume episodes and remove any you want to skip.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Reanuda episodios y elimina los que quieras omitir."
+                    }
+                }
+            }
+        },
+        "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Los podcasts que compras en Apple Podcasts Subscriptions están asociados con tu Apple ID. La puntuación de confianza de tu dispositivo se usa para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Ve cómo se gestiona tu información..."
+                    }
+                }
+            }
+        },
+        "What's New in Orange Podcasts": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "What's New in Orange Podcasts"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Novedades en Orange Podcasts"
+                    }
+                }
+            }
+        },
+        "car count %lld": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "es": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "recuento de coches %lld"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "test": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                },
+                "es": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "prueba"
+                    }
+                }
+            }
         }
-      }
     },
-    "Channels in Library" : {
-      "comment" : "channel title",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Channels in Library"
-          }
-        }
-      }
-    },
-    "Continue" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continue"
-          }
-        }
-      }
-    },
-    "Easily access followed shows and more from your channels." : {
-
-    },
-    "Improved Up Next" : {
-
-    },
-    "Play your content on devices remotely." : {
-
-    },
-    "Quickly pick up where you left off or find new shows in Browse." : {
-
-    },
-    "Resume episodes and remove any you want to skip." : {
-
-    },
-    "test" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
-          }
-        }
-      }
-    },
-    "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
-          }
-        }
-      }
-    },
-    "What's New in Orange Podcasts" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    }
-  },
-  "version" : "1.0"
+    "version": "1.0"
 }
