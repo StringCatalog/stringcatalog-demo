@@ -1,119 +1,570 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "Airplay Feature" : {
-      "comment" : "airplay feature comment"
-    },
-    "car count %lld" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
+    "sourceLanguage": "en",
+    "strings": {
+        "Airplay Feature": {
+            "comment": "airplay feature comment",
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Funkce Airplay"
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay-Funktion"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay Feature"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Airplay Feature"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay Feature"
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
             }
-          }
-        }
-      }
-    },
-    "CarPlay Updates" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "CarPlay Updates"
+        },
+        "car count %lld": {
+            "localizations": {
+                "cs": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "počet aut %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "počet aut %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "de": {
+                    "variations": {
+                        "plural": {
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "Autoanzahl %lld"
+                                }
+                            },
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "Autozählung %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en-AU": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "needs-l10n",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "needs-l10n",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en-IN": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "CarPlay Updates"
-                }
-              }
             }
-          }
+        },
+        "CarPlay Updates": {
+            "localizations": {
+                "cs": {
+                    "variations": {
+                        "device": {
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "Aktualizace CarPlay"
+                                }
+                            },
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "Aktualizace pro CarPlay"
+                                }
+                            }
+                        }
+                    }
+                },
+                "de": {
+                    "variations": {
+                        "device": {
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay-Aktualisierungen"
+                                }
+                            },
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay-Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en-AU": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "needs-l10n",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "needs-l10n",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "en-IN": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Channels in Library": {
+            "comment": "channel title",
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Kanály v knihovně"
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Kanäle in der Bibliothek"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Channels in Library"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Channels in Library"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Channels in Library"
+                    }
+                }
+            }
+        },
+        "Continue": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Pokračovat"
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Fortsetzen"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continue"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Continue"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continue"
+                    }
+                }
+            }
+        },
+        "Easily access followed shows and more from your channels.": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Snadno přistupujte k sledovaným pořadům a dalším z vašich kanálů."
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Greifen Sie mühelos auf verfolgte Shows und mehr von Ihren Kanälen zu."
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                }
+            }
+        },
+        "Improved Up Next": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Vylepšené "
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Verbessertes Weiter Nächste"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Improved Up Next"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Improved Up Next"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Improved Up Next"
+                    }
+                }
+            }
+        },
+        "Play your content on devices remotely.": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Přehrávejte svůj obsah na zařízeních na dálku."
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Spielen Sie Ihre Inhalte auf Geräten aus der Ferne ab."
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Play your content on devices remotely."
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Play your content on devices remotely."
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Play your content on devices remotely."
+                    }
+                }
+            }
+        },
+        "Quickly pick up where you left off or find new shows in Browse.": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Rychle pokračujte tam, kde jste přestali, nebo najděte nové pořady v Procházení."
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Schnell dort weitermachen, wo Sie aufgehört haben, oder neue Shows in Durchsuchen finden."
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                }
+            }
+        },
+        "Resume episodes and remove any you want to skip.": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Pokračujte v epizodách a odstraňte ty, které chcete přeskočit."
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Episoden fortsetzen und alle entfernen, die Sie überspringen möchten."
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                }
+            }
+        },
+        "test": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Test"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "test"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                }
+            }
+        },
+        "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Podcasty, které zakoupíte v Apple Podcasts Subscriptions, jsou spojeny s vaším Apple ID. Skóre důvěry vašeho zařízení se používá k prevenci podvodů. Data o vašem poslouchání podcastů a interakcích jsou také používána ke zlepšení a personalizaci služby a nejsou spojena s vaším Apple ID. Podívejte se, jak se vaše data spravují..."
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Die Podcasts, die Sie in Apple Podcasts Abonnements kaufen, sind mit Ihrer Apple-ID verknüpft. Ihr Gerätvertrauensscore wird zur Betrugsprävention verwendet. Daten zu Ihrem Podcast-Hörverhalten und Ihren Interaktionen werden ebenfalls verwendet, um den Dienst zu verbessern und zu personalisieren, und sind nicht mit Ihrer Apple-ID verknüpft. Sehen Sie, wie Ihre Daten verwaltet werden..."
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalise the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                }
+            }
+        },
+        "What's New in Orange Podcasts": {
+            "localizations": {
+                "cs": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Novinky v Orange Podcasts"
+                    }
+                },
+                "de": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Neuigkeiten in Orange Podcasts"
+                    }
+                },
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "What's New in Orange Podcasts"
+                    }
+                },
+                "en-AU": {
+                    "stringUnit": {
+                        "state": "needs-l10n",
+                        "value": "What’s New in Orange Podcasts"
+                    }
+                },
+                "en-IN": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "What's New in Orange Podcasts"
+                    }
+                }
+            }
         }
-      }
     },
-    "Channels in Library" : {
-      "comment" : "channel title",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Channels in Library"
-          }
-        }
-      }
-    },
-    "Continue" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continue"
-          }
-        }
-      }
-    },
-    "Easily access followed shows and more from your channels." : {
-
-    },
-    "Improved Up Next" : {
-
-    },
-    "Play your content on devices remotely." : {
-
-    },
-    "Quickly pick up where you left off or find new shows in Browse." : {
-
-    },
-    "Resume episodes and remove any you want to skip." : {
-
-    },
-    "test" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
-          }
-        }
-      }
-    },
-    "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
-          }
-        }
-      }
-    },
-    "What's New in Orange Podcasts" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    }
-  },
-  "version" : "1.0"
+    "version": "1.0"
 }
