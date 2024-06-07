@@ -1,264 +1,267 @@
 {
-    "sourceLanguage": "en",
-    "strings": {
-        "Airplay Feature": {
-            "comment": "airplay feature comment",
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Airplay Feature"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Функция Airplay"
-                    }
-                }
-            }
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Airplay Feature" : {
+      "comment" : "airplay feature comment",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
         },
-        "car count %lld": {
-            "localizations": {
-                "en": {
-                    "variations": {
-                        "plural": {
-                            "one": {
-                                "stringUnit": {
-                                    "state": "needs_review",
-                                    "value": "car count %lld"
-                                }
-                            },
-                            "other": {
-                                "stringUnit": {
-                                    "state": "new",
-                                    "value": "car count %lld"
-                                }
-                            }
-                        }
-                    }
-                },
-                "ru": {
-                    "variations": {
-                        "plural": {
-                            "one": {
-                                "stringUnit": {
-                                    "state": "translated",
-                                    "value": "количество автомобилей %lld"
-                                }
-                            },
-                            "other": {
-                                "stringUnit": {
-                                    "state": "translated",
-                                    "value": "количество автомобилей %lld"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "CarPlay Updates": {
-            "localizations": {
-                "en": {
-                    "variations": {
-                        "device": {
-                            "ipod": {
-                                "stringUnit": {
-                                    "state": "needs_review",
-                                    "value": "CarPlay Updates"
-                                }
-                            },
-                            "other": {
-                                "stringUnit": {
-                                    "state": "new",
-                                    "value": "CarPlay Updates"
-                                }
-                            }
-                        }
-                    }
-                },
-                "ru": {
-                    "variations": {
-                        "device": {
-                            "ipod": {
-                                "stringUnit": {
-                                    "state": "translated",
-                                    "value": "Обновления CarPlay"
-                                }
-                            },
-                            "other": {
-                                "stringUnit": {
-                                    "state": "translated",
-                                    "value": "Обновления CarPlay"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "Channels in Library": {
-            "comment": "channel title",
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Channels in Library"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Каналы в библиотеке"
-                    }
-                }
-            }
-        },
-        "Continue": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Continue"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Продолжить"
-                    }
-                }
-            }
-        },
-        "Easily access followed shows and more from your channels.": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Easily access followed shows and more from your channels."
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Легко получайте доступ к подписанным шоу и многому другому с ваших каналов."
-                    }
-                }
-            }
-        },
-        "Improved Up Next": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Improved Up Next"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Улучшенный Далее"
-                    }
-                }
-            }
-        },
-        "Play your content on devices remotely.": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Play your content on devices remotely."
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Просматривайте ваш контент на устройствах удаленно."
-                    }
-                }
-            }
-        },
-        "Quickly pick up where you left off or find new shows in Browse.": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Quickly pick up where you left off or find new shows in Browse."
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Быстро возобновляйте просмотр с того места, на котором остановились, или находите новые шоу в разделе \"Обзор\"."
-                    }
-                }
-            }
-        },
-        "Resume episodes and remove any you want to skip.": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Resume episodes and remove any you want to skip."
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Возобновляйте эпизоды и удаляйте те, которые хотите пропустить."
-                    }
-                }
-            }
-        },
-        "test": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "test"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "тест"
-                    }
-                }
-            }
-        },
-        "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Подкасты, которые вы покупаете в подписках Apple Podcasts, связаны с вашим Apple ID. Оценка надежности вашего устройства используется для предотвращения мошенничества. Данные о вашем прослушивании подкастов и взаимодействиях также используются для улучшения и персонализации услуги и не связаны с вашим Apple ID. Узнайте, как управляются ваши данные..."
-                    }
-                }
-            }
-        },
-        "What's New in Orange Podcasts": {
-            "localizations": {
-                "en": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "What's New in Orange Podcasts"
-                    }
-                },
-                "ru": {
-                    "stringUnit": {
-                        "state": "translated",
-                        "value": "Что нового в Orange Podcasts"
-                    }
-                }
-            }
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функция Airplay"
+          }
         }
+      }
     },
-    "version": "1.0"
+    "car count %lld" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "car count %lld"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "car count %lld"
+                }
+              }
+            }
+          }
+        },
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "количество автомобилей %lld"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "количество автомобилей %lld"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "CarPlay Updates" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "CarPlay Updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "CarPlay Updates"
+                }
+              }
+            }
+          }
+        },
+        "ru" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Обновления CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Обновления CarPlay"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Channels in Library" : {
+      "comment" : "channel title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Channels in Library"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каналы в библиотеке"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продолжить"
+          }
+        }
+      }
+    },
+    "Easily access followed shows and more from your channels." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легко получайте доступ к подписанным шоу и многому другому с ваших каналов."
+          }
+        }
+      }
+    },
+    "Improved Up Next" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улучшенный Далее"
+          }
+        }
+      }
+    },
+    "Play your content on devices remotely." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Просматривайте ваш контент на устройствах удаленно."
+          }
+        }
+      }
+    },
+    "Quickly pick up where you left off or find new shows in Browse." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Быстро возобновляйте просмотр с того места, на котором остановились, или находите новые шоу в разделе \"Обзор\"."
+          }
+        }
+      }
+    },
+    "Resume episodes and remove any you want to skip." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Возобновляйте эпизоды и удаляйте те, которые хотите пропустить."
+          }
+        }
+      }
+    },
+    "test" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "test"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "тест"
+          }
+        }
+      }
+    },
+    "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подкасты, которые вы покупаете в подписках Apple Podcasts, связаны с вашим Apple ID. Оценка надежности вашего устройства используется для предотвращения мошенничества. Данные о вашем прослушивании подкастов и взаимодействиях также используются для улучшения и персонализации услуги и не связаны с вашим Apple ID. Узнайте, как управляются ваши данные..."
+          }
+        }
+      }
+    },
+    "This is my title" : {
+
+    },
+    "What's New in Orange Podcasts" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Что нового в Orange Podcasts"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
 }

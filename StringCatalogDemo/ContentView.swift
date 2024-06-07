@@ -10,12 +10,15 @@ import SwiftUI
 struct ContentView: View {
     @State var showIntro = false
     var body: some View {
-        Button("test") {
-            showIntro = true
-        }
-        .sheet(isPresented: $showIntro, content: {
-            IntroView()
+        VStack {
+            Text("This is my title")
+            Button("test") {
+                showIntro = true
+            }
+            .sheet(isPresented: $showIntro, content: {
+                IntroView()
         })
+        }
     }
 }
 
