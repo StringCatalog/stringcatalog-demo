@@ -1,119 +1,264 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "Airplay Feature" : {
-      "comment" : "airplay feature comment"
-    },
-    "car count %lld" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
+    "sourceLanguage": "en",
+    "strings": {
+        "Airplay Feature": {
+            "comment": "airplay feature comment",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay Feature"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay 功能"
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
             }
-          }
-        }
-      }
-    },
-    "CarPlay Updates" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "CarPlay Updates"
+        },
+        "car count %lld": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "zh-Hans": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "汽车数量 %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "汽车数量 %lld"
+                                }
+                            }
+                        }
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "CarPlay Updates"
-                }
-              }
             }
-          }
+        },
+        "CarPlay Updates": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "zh-Hans": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay 更新"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlay 更新"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Channels in Library": {
+            "comment": "channel title",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Channels in Library"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "库中的频道"
+                    }
+                }
+            }
+        },
+        "Continue": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continue"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "继续"
+                    }
+                }
+            }
+        },
+        "Easily access followed shows and more from your channels.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "轻松访问关注的节目和更多内容。"
+                    }
+                }
+            }
+        },
+        "Improved Up Next": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Improved Up Next"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "改进的即将播放"
+                    }
+                }
+            }
+        },
+        "Play your content on devices remotely.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Play your content on devices remotely."
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "在设备上远程播放您的内容。"
+                    }
+                }
+            }
+        },
+        "Quickly pick up where you left off or find new shows in Browse.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "快速从您上次中断的地方继续或在“浏览”中找到新节目。"
+                    }
+                }
+            }
+        },
+        "Resume episodes and remove any you want to skip.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "继续播放剧集并删除任何您想跳过的剧集。"
+                    }
+                }
+            }
+        },
+        "test": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "测试"
+                    }
+                }
+            }
+        },
+        "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "您在 Apple 播客订阅中购买的播客与您的 Apple ID 关联。您的设备信任评分用于防止欺诈。您的播客收听和互动数据也用于改进和个性化服务，并且不会与您的 Apple ID 关联。查看如何管理您的数据..."
+                    }
+                }
+            }
+        },
+        "What's New in Orange Podcasts": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "What's New in Orange Podcasts"
+                    }
+                },
+                "zh-Hans": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Orange Podcasts的最新动态"
+                    }
+                }
+            }
         }
-      }
     },
-    "Channels in Library" : {
-      "comment" : "channel title",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Channels in Library"
-          }
-        }
-      }
-    },
-    "Continue" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continue"
-          }
-        }
-      }
-    },
-    "Easily access followed shows and more from your channels." : {
-
-    },
-    "Improved Up Next" : {
-
-    },
-    "Play your content on devices remotely." : {
-
-    },
-    "Quickly pick up where you left off or find new shows in Browse." : {
-
-    },
-    "Resume episodes and remove any you want to skip." : {
-
-    },
-    "test" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
-          }
-        }
-      }
-    },
-    "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
-          }
-        }
-      }
-    },
-    "What's New in Orange Podcasts" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    }
-  },
-  "version" : "1.0"
+    "version": "1.0"
 }
