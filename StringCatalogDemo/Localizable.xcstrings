@@ -1,119 +1,264 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "Airplay Feature" : {
-      "comment" : "airplay feature comment"
-    },
-    "car count %lld" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
+    "sourceLanguage": "en",
+    "strings": {
+        "Airplay Feature": {
+            "comment": "airplay feature comment",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay Feature"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Airplay機能"
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
             }
-          }
-        }
-      }
-    },
-    "CarPlay Updates" : {
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "CarPlay Updates"
+        },
+        "car count %lld": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "plural": {
+                            "one": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "car count %lld"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "car count %lld"
+                                }
+                            }
+                        }
+                    }
+                },
+                "ja": {
+                    "variations": {
+                        "plural": {
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "車の数 %lld"
+                                }
+                            },
+                            "one": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "車の数 %lld"
+                                }
+                            }
+                        }
+                    }
                 }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "CarPlay Updates"
-                }
-              }
             }
-          }
+        },
+        "CarPlay Updates": {
+            "localizations": {
+                "en": {
+                    "variations": {
+                        "device": {
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "needs_review",
+                                    "value": "CarPlay Updates"
+                                }
+                            },
+                            "other": {
+                                "stringUnit": {
+                                    "state": "new",
+                                    "value": "CarPlay Updates"
+                                }
+                            }
+                        }
+                    }
+                },
+                "ja": {
+                    "variations": {
+                        "device": {
+                            "other": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlayの更新"
+                                }
+                            },
+                            "ipod": {
+                                "stringUnit": {
+                                    "state": "translated",
+                                    "value": "CarPlayの更新"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Channels in Library": {
+            "comment": "channel title",
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Channels in Library"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "ライブラリ内のチャンネル"
+                    }
+                }
+            }
+        },
+        "Continue": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Continue"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "続行"
+                    }
+                }
+            }
+        },
+        "Easily access followed shows and more from your channels.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Easily access followed shows and more from your channels."
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "あなたがフォローしている番組やその他のコンテンツに簡単にアクセスできます。"
+                    }
+                }
+            }
+        },
+        "Improved Up Next": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Improved Up Next"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "次に強化された機能"
+                    }
+                }
+            }
+        },
+        "Play your content on devices remotely.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Play your content on devices remotely."
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "コンテンツをリモートでデバイスで再生します。"
+                    }
+                }
+            }
+        },
+        "Quickly pick up where you left off or find new shows in Browse.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Quickly pick up where you left off or find new shows in Browse."
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "すぐに前回の続きを再開したり、ブラウズで新しい番組を見つけたりできます。"
+                    }
+                }
+            }
+        },
+        "Resume episodes and remove any you want to skip.": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Resume episodes and remove any you want to skip."
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "エピソードを再開し、スキップしたいものを削除します。"
+                    }
+                }
+            }
+        },
+        "test": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "test"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "テスト"
+                    }
+                }
+            }
+        },
+        "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "Apple Podcasts サブスクリプションで購入するポッドキャストは、あなたのApple IDに関連付けられています。デバイスの信頼スコアは、不正行為を防止するために使用されます。ポッドキャストの聴取やインタラクションに関するデータは、サービスの改善とパーソナライズに使用されますが、Apple IDには関連付けられていません。データの管理方法をご覧ください..."
+                    }
+                }
+            }
+        },
+        "What's New in Orange Podcasts": {
+            "localizations": {
+                "en": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "What's New in Orange Podcasts"
+                    }
+                },
+                "ja": {
+                    "stringUnit": {
+                        "state": "translated",
+                        "value": "オレンジポッドキャストの新着情報"
+                    }
+                }
+            }
         }
-      }
     },
-    "Channels in Library" : {
-      "comment" : "channel title",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Channels in Library"
-          }
-        }
-      }
-    },
-    "Continue" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continue"
-          }
-        }
-      }
-    },
-    "Easily access followed shows and more from your channels." : {
-
-    },
-    "Improved Up Next" : {
-
-    },
-    "Play your content on devices remotely." : {
-
-    },
-    "Quickly pick up where you left off or find new shows in Browse." : {
-
-    },
-    "Resume episodes and remove any you want to skip." : {
-
-    },
-    "test" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
-          }
-        }
-      }
-    },
-    "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
-          }
-        }
-      }
-    },
-    "What's New in Orange Podcasts" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    }
-  },
-  "version" : "1.0"
+    "version": "1.0"
 }
