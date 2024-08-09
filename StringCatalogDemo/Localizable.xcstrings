@@ -5,6 +5,7 @@
       "comment" : "airplay feature comment"
     },
     "car count %lld" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "variations" : {
@@ -72,7 +73,13 @@
     "Easily access followed shows and more from your channels." : {
 
     },
+    "Explore the power of localization" : {
+
+    },
     "Improved Up Next" : {
+
+    },
+    "Learn More" : {
 
     },
     "Play your content on devices remotely." : {
@@ -84,7 +91,11 @@
     "Resume episodes and remove any you want to skip." : {
 
     },
+    "String Catalog Demo" : {
+
+    },
     "test" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {

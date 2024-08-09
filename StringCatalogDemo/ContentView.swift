@@ -8,14 +8,74 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var showIntro = false
+    @State private var showIntro = false
+    
     var body: some View {
-        Button("test") {
-            showIntro = true
+        NavigationView {
+            VStack(spacing: 30) {
+                Spacer()
+                
+                Image(systemName: "globe")
+                    .resizable()
+                    .aspectRatio(contentMode: .fit)
+                    .frame(width: 80, height: 80)
+                    .foregroundColor(.accentColor)
+                
+                VStack(spacing: 10) {
+                    Text("String Catalog Demo")
+                        .font(.largeTitle)
+                        .fontWeight(.bold)
+                    
+                    Text("Explore the power of localization")
+                        .font(.subheadline)
+                        .foregroundColor(.secondary)
+                }
+                
+                VStack(alignment: .leading, spacing: 20) {
+                    FeatureRow(iconName: "text.book.closed", text: "Centralized string management")
+                    FeatureRow(iconName: "globe", text: "Easy localization")
+                    FeatureRow(iconName: "arrow.2.circlepath", text: "Seamless integration")
+                }
+                .padding(.vertical, 20)
+                .padding(.horizontal, 25)
+                .background(Color(UIColor.secondarySystemBackground))
+                .cornerRadius(15)
+                
+                Spacer()
+                
+                Button(action: {
+                    showIntro = true
+                }) {
+                    Text("Learn More")
+                        .fontWeight(.semibold)
+                        .foregroundColor(.white)
+                        .frame(maxWidth: .infinity)
+                        .padding()
+                        .background(Color.accentColor)
+                        .cornerRadius(12)
+                }
+            }
+            .padding(.horizontal, 25)
+            .navigationBarHidden(true)
         }
-        .sheet(isPresented: $showIntro, content: {
-            IntroView()
-        })
+        .sheet(isPresented: $showIntro) {
+            IntroView(isPresented: $showIntro)
+        }
+    }
+}
+
+struct FeatureRow: View {
+    let iconName: String
+    let text: String
+    
+    var body: some View {
+        HStack(spacing: 15) {
+            Image(systemName: iconName)
+                .foregroundColor(.accentColor)
+                .font(.system(size: 22))
+            Text(text)
+                .font(.body)
+        }
     }
 }
 
@@ -27,6 +87,8 @@ struct Feature: Identifiable {
 }
 
 struct IntroView: View {
+    @Binding var isPresented: Bool
+    
     var body: some View {
         let features: [Feature] = [
             Feature(iconName: "rectangle.stack", title: NSLocalizedString("Airplay Feature", comment: "airplay feature comment"), description: NSLocalizedString("Play your content on devices remotely.", comment: "")),
@@ -37,7 +99,6 @@ struct IntroView: View {
         
         NavigationView {
             VStack(spacing: 10) {
-                Text("car count \(22)")
                 Text("What's New in Orange Podcasts")
                     .font(.title)
                     .fontWeight(.bold)
@@ -55,25 +116,27 @@ struct IntroView: View {
                 Spacer()
                 
                 Image(systemName: "person.2.badge.key")
-                    .foregroundColor(.purple)
+                    .foregroundColor(.accentColor)
                     .imageScale(.large)
                 Text("The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...")
                     .font(.caption)
-                    .foregroundColor(.gray)
+                    .foregroundColor(.secondary)
                     .padding(.bottom, 20)
                     .multilineTextAlignment(.center)
                 
-                Button(action: {}) {
+                Button(action: {
+                    isPresented = false
+                }) {
                     Text("Continue")
                         .fontWeight(.bold)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
                         .padding()
-                        .background(Color.purple)
+                        .background(Color.accentColor)
                         .cornerRadius(10)
                 }
             }
-            .background(Color.white)
+            .background(Color(UIColor.systemBackground))
             .navigationBarHidden(true)
             .padding(30)
         }
@@ -88,7 +151,7 @@ struct FeatureView: View {
     var body: some View {
         HStack(alignment: .top, spacing: 15) {
             Image(systemName: iconName)
-                .foregroundColor(.purple)
+                .foregroundColor(.accentColor)
                 .frame(width: 44, height: 44)
                 .imageScale(.large)
                 .font(.system(size: 24))
@@ -97,7 +160,7 @@ struct FeatureView: View {
                     .fontWeight(.semibold)
                 Text(description)
                     .font(.subheadline)
-                    .foregroundColor(.gray)
+                    .foregroundColor(.secondary)
                     .multilineTextAlignment(.leading)
                     .lineLimit(4)
                     .fixedSize(horizontal: false, vertical: true)
