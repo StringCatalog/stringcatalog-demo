@@ -49,6 +49,9 @@
         }
       }
     },
+    "Centralized string management" : {
+
+    },
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
@@ -73,6 +76,9 @@
     "Easily access followed shows and more from your channels." : {
 
     },
+    "Easy localization" : {
+
+    },
     "Explore the power of localization" : {
 
     },
@@ -89,6 +95,9 @@
 
     },
     "Resume episodes and remove any you want to skip." : {
+
+    },
+    "Seamless integration" : {
 
     },
     "String Catalog Demo" : {
