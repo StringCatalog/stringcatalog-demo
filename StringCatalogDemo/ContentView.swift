@@ -32,9 +32,9 @@ struct ContentView: View {
                 }
                 
                 VStack(alignment: .leading, spacing: 20) {
-                    FeatureRow(iconName: "text.book.closed", text: LocalizedStringKey("Centralized string management"))
-                    FeatureRow(iconName: "globe", text: LocalizedStringKey("Easy localization"))
-                    FeatureRow(iconName: "arrow.2.circlepath", text: LocalizedStringKey("Seamless integration"))
+                    FeatureRow(iconName: "text.book.closed", text: "Centralized string management")
+                    FeatureRow(iconName: "globe", text: "Easy localization")
+                    FeatureRow(iconName: "arrow.2.circlepath", text: "Seamless integration")
                 }
                 .padding(.vertical, 20)
                 .padding(.horizontal, 25)
