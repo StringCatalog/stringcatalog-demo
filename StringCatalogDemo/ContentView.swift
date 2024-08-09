@@ -128,7 +128,6 @@ struct IntroView: View {
                     isPresented = false
                 }) {
                     Text("Continue")
-                    Text("Continue")
                         .fontWeight(.bold)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
