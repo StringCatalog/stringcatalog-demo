@@ -22,11 +22,11 @@ struct ContentView: View {
                     .foregroundColor(.accentColor)
                 
                 VStack(spacing: 10) {
-                    Text(LocalizedStringKey("String Catalog Demo"))
+                    Text("String Catalog Demo")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     
-                    Text(LocalizedStringKey("Explore the power of localization"))
+                    Text("Explore the power of localization")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                 }
@@ -46,7 +46,7 @@ struct ContentView: View {
                 Button(action: {
                     showIntro = true
                 }) {
-                    Text(LocalizedStringKey("Learn More"))
+                    Text("Learn More")
                         .fontWeight(.semibold)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
@@ -99,7 +99,7 @@ struct IntroView: View {
         
         NavigationView {
             VStack(spacing: 10) {
-                Text(LocalizedStringKey("What's New in Orange Podcasts"))
+                Text("What's New in Orange Podcasts")
                     .font(.title)
                     .fontWeight(.bold)
                     .padding(.bottom, 25)
@@ -118,7 +118,7 @@ struct IntroView: View {
                 Image(systemName: "person.2.badge.key")
                     .foregroundColor(.accentColor)
                     .imageScale(.large)
-                Text(LocalizedStringKey("The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."))
+                Text("The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed...")
                     .font(.caption)
                     .foregroundColor(.secondary)
                     .padding(.bottom, 20)
@@ -127,7 +127,8 @@ struct IntroView: View {
                 Button(action: {
                     isPresented = false
                 }) {
-                    Text(LocalizedStringKey("Continue"))
+                    Text("Continue")
+                    Text("Continue")
                         .fontWeight(.bold)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
