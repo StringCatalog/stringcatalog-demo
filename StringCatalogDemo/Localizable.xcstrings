@@ -18,47 +18,6 @@
         }
       }
     },
-    "car count %lld" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "el" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "αριθμός αυτοκινήτων %lld"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "αριθμός αυτοκινήτων %lld"
-                }
-              }
-            }
-          }
-        },
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "CarPlay Updates" : {
       "localizations" : {
         "el" : {
