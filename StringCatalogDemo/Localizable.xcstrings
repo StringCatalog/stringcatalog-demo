@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Airplay Feature"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एयरप्ले सुविधा"
+          }
         }
       }
     },
@@ -55,6 +61,24 @@
               }
             }
           }
+        },
+        "hi" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "कारप्ले अपडेट"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "कारप्ले अपडेट"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -70,6 +94,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centralized string management"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "केंद्रीकृत स्ट्रिंग प्रबंधन"
           }
         }
       }
@@ -88,6 +118,12 @@
             "state" : "translated",
             "value" : "Channels in Library"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुस्तकालय में चैनल"
+          }
         }
       }
     },
@@ -103,6 +139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जारी रखें"
           }
         }
       }
@@ -120,6 +162,12 @@
             "state" : "translated",
             "value" : "Easily access followed shows and more from your channels."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपने चैनलों से फॉलो किए गए शोज़ और अधिक को आसानी से एक्सेस करें।"
+          }
         }
       }
     },
@@ -135,6 +183,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Easy localization"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आसान स्थानीयकरण"
           }
         }
       }
@@ -152,6 +206,12 @@
             "state" : "translated",
             "value" : "Explore the power of localization"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थानीयकरण की शक्ति का अन्वेषण करें"
+          }
         }
       }
     },
@@ -167,6 +227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Improved Up Next"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सुधारित अगला"
           }
         }
       }
@@ -184,6 +250,12 @@
             "state" : "translated",
             "value" : "Learn More"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "और जानें"
+          }
         }
       }
     },
@@ -199,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Play your content on devices remotely."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपनी सामग्री को दूर से उपकरणों पर खेलें।"
           }
         }
       }
@@ -216,6 +294,12 @@
             "state" : "translated",
             "value" : "Quickly pick up where you left off or find new shows in Browse."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जहाँ आपने छोड़ा था वहाँ जल्दी से वापस लें या ब्राउज़ में नए शो खोजें।"
+          }
         }
       }
     },
@@ -231,6 +315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एपिसोड फिर से शुरू करें और किसी भी एपिसोड को हटा दें जिसे आप छोड़ना चाहते हैं।"
           }
         }
       }
@@ -248,6 +338,12 @@
             "state" : "translated",
             "value" : "Seamless integration"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "निर्बाध एकीकरण"
+          }
         }
       }
     },
@@ -260,6 +356,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "String Catalog Demo"
@@ -281,6 +383,12 @@
             "state" : "translated",
             "value" : "test"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "test"
+          }
         }
       }
     },
@@ -297,6 +405,12 @@
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts Subscriptions में आप जो पॉडकास्ट खरीदते हैं वे आपके Apple ID से जुड़े होते हैं। आपके डिवाइस का ट्रस्ट स्कोर धोखाधड़ी को रोकने के लिए उपयोग किया जाता है। आपका पॉडकास्ट सुनने और इंटरैक्शन का डेटा सेवा को सुधारने और व्यक्तिगत बनाने के लिए भी उपयोग किया जाता है और आपके Apple ID से नहीं जुड़ा होता है। देखें कि आपका डेटा कैसे प्रबंधित किया जाता है..."
+          }
         }
       }
     },
@@ -312,6 +426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts में क्या नया है"
           }
         }
       }
