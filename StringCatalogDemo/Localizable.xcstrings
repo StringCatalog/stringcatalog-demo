@@ -15,6 +15,18 @@
             "state" : "translated",
             "value" : "Airplay Feature"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एयरप्ले सुविधा"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay funkció"
+          }
         }
       }
     },
@@ -55,6 +67,42 @@
               }
             }
           }
+        },
+        "hi" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "कारप्ले अपडेट"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "कारप्ले अपडेट"
+                }
+              }
+            }
+          }
+        },
+        "hu" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay frissítések"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay frissítések"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -70,6 +118,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centralized string management"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "केंद्रीकृत स्ट्रिंग प्रबंधन"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Központosított szövegkezelés"
           }
         }
       }
@@ -88,6 +148,18 @@
             "state" : "translated",
             "value" : "Channels in Library"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पुस्तकालय में चैनल"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Csatornák a könyvtárban"
+          }
         }
       }
     },
@@ -103,6 +175,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जारी रखें"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folytatás"
           }
         }
       }
@@ -120,6 +204,18 @@
             "state" : "translated",
             "value" : "Easily access followed shows and more from your channels."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपने चैनलों से फॉलो किए गए शोज़ और अधिक को आसानी से एक्सेस करें।"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Könnyen hozzáférhet a követett műsoraihoz és még sok máshoz a csatornájából."
+          }
         }
       }
     },
@@ -135,6 +231,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Easy localization"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आसान स्थानीयकरण"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Könnyű lokalizáció"
           }
         }
       }
@@ -152,6 +260,18 @@
             "state" : "translated",
             "value" : "Explore the power of localization"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्थानीयकरण की शक्ति का अन्वेषण करें"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fedezze fel a lokalizáció erejét"
+          }
         }
       }
     },
@@ -167,6 +287,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Improved Up Next"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सुधारित अगला"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fejlesztett A következő"
           }
         }
       }
@@ -184,6 +316,18 @@
             "state" : "translated",
             "value" : "Learn More"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "और जानें"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tudj meg többet"
+          }
         }
       }
     },
@@ -199,6 +343,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Play your content on devices remotely."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपनी सामग्री को दूर से उपकरणों पर खेलें।"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tartalmadat távolról, eszközökön játszhatod le."
           }
         }
       }
@@ -216,6 +372,18 @@
             "state" : "translated",
             "value" : "Quickly pick up where you left off or find new shows in Browse."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जहाँ आपने छोड़ा था वहाँ जल्दी से वापस लें या ब्राउज़ में नए शो खोजें।"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gyorsan folytathatod ott, ahol abbahagytad, vagy új műsorokat találhatsz a Böngészés alatt."
+          }
         }
       }
     },
@@ -231,6 +399,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एपिसोड फिर से शुरू करें और किसी भी एपिसोड को हटा दें जिसे आप छोड़ना चाहते हैं।"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folytasd az epizódokat és távolítsd el azokat, amelyeket át akarsz ugrani."
           }
         }
       }
@@ -248,6 +428,18 @@
             "state" : "translated",
             "value" : "Seamless integration"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "निर्बाध एकीकरण"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zökkenőmentes integráció"
+          }
         }
       }
     },
@@ -262,6 +454,18 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "needs-review-l10n",
             "value" : "String Catalog Demo"
           }
         }
@@ -281,6 +485,18 @@
             "state" : "translated",
             "value" : "test"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "test"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "teszt"
+          }
         }
       }
     },
@@ -297,6 +513,18 @@
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts Subscriptions में आप जो पॉडकास्ट खरीदते हैं वे आपके Apple ID से जुड़े होते हैं। आपके डिवाइस का ट्रस्ट स्कोर धोखाधड़ी को रोकने के लिए उपयोग किया जाता है। आपका पॉडकास्ट सुनने और इंटरैक्शन का डेटा सेवा को सुधारने और व्यक्तिगत बनाने के लिए भी उपयोग किया जाता है और आपके Apple ID से नहीं जुड़ा होता है। देखें कि आपका डेटा कैसे प्रबंधित किया जाता है..."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Az Apple Podcasts előfizetéseken megvásárolt podcastek az Apple ID-dal vannak összekapcsolva. Az eszközöd bizalmi pontszámát a csalások megelőzésére használják. A podcast hallgatási és interakciós adataidat is felhasználják a szolgáltatás javítására és személyre szabására, és nem kapcsolódnak az Apple ID-dhoz. Nézd meg, hogyan kezelik az adataidat..."
+          }
         }
       }
     },
@@ -312,6 +540,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts में क्या नया है"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi újság az Orange Podcastsban"
           }
         }
       }
