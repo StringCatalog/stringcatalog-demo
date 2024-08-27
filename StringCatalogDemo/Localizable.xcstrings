@@ -272,14 +272,14 @@
       "localizations" : {
         "el" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "test"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "test"
+            "value" : "test2"
           }
         }
       }
