@@ -251,6 +251,22 @@
         }
       }
     },
+    "String Catalog Demo Project" : {
+      "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo Project"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo Project"
+          }
+        }
+      }
+    },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
         "el" : {
@@ -279,22 +295,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    },
-    "String Catalog Demo Project" : {
-      "localizations" : {
-        "el" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo Project"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo Project"
           }
         }
       }
