@@ -251,36 +251,18 @@
         }
       }
     },
-    "String Catalog Demo" : {
-      "extractionState" : "stale",
+    "String Catalog Demo Project" : {
       "localizations" : {
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "String Catalog Demo"
+            "value" : "String Catalog Demo Project"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "String Catalog Demo"
-          }
-        }
-      }
-    },
-    "test" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "el" : {
-          "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "test"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
+            "value" : "String Catalog Demo Project"
           }
         }
       }
@@ -313,22 +295,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
-          }
-        }
-      }
-    },
-    "String Catalog Demo Project" : {
-      "localizations" : {
-        "el" : {
-          "stringUnit" : {
-            "state" : "needs-review-l10n",
-            "value" : "String Catalog Demo Project"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo Project"
           }
         }
       }
