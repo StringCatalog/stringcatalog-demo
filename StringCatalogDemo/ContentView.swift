@@ -26,7 +26,7 @@ struct ContentView: View {
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     
-                    Text("Explore the power of localization")
+                    Text("Explore the power of localizations")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                 }

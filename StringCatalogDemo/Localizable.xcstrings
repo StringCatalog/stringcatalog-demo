@@ -140,6 +140,7 @@
       }
     },
     "Explore the power of localization" : {
+      "extractionState" : "stale",
       "localizations" : {
         "el" : {
           "stringUnit" : {
@@ -154,6 +155,9 @@
           }
         }
       }
+    },
+    "Explore the power of localizations" : {
+
     },
     "Improved Up Next" : {
       "localizations" : {
