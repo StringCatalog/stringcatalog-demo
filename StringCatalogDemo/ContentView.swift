@@ -22,7 +22,7 @@ struct ContentView: View {
                     .foregroundColor(.accentColor)
                 
                 VStack(spacing: 10) {
-                    Text("String Catalog Demo")
+                    Text("String Catalog Demo Project")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     

@@ -252,6 +252,7 @@
       }
     },
     "String Catalog Demo" : {
+      "extractionState" : "stale",
       "localizations" : {
         "el" : {
           "stringUnit" : {
@@ -267,6 +268,9 @@
         }
       }
     },
+    "String Catalog Demo Project" : {
+
+    },
     "test" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -279,7 +283,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "test22223456"
+            "value" : "test"
           }
         }
       }
