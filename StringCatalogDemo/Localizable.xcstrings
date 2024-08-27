@@ -157,7 +157,20 @@
       }
     },
     "Explore the power of localizations" : {
-
+      "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εξερευνήστε τη δύναμη των τοπικοποιήσεων"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localizations"
+          }
+        }
+      }
     },
     "Improved Up Next" : {
       "localizations" : {
