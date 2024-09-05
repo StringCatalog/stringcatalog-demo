@@ -2,10 +2,25 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Account" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        }
+      }
     },
     "Airplay Feature" : {
-      "comment" : "airplay feature comment"
+      "comment" : "airplay feature comment",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        }
+      }
     },
     "CarPlay Updates" : {
       "localizations" : {
@@ -30,7 +45,14 @@
       }
     },
     "Centralized string management" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralized string management"
+          }
+        }
+      }
     },
     "Channels in Library" : {
       "comment" : "channel title",
@@ -54,43 +76,134 @@
       }
     },
     "Easily access followed shows and more from your channels." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        }
+      }
     },
     "Easy localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localization"
+          }
+        }
+      }
     },
     "Explore the power of localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization"
+          }
+        }
+      }
     },
     "Improved Up Next" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        }
+      }
     },
     "Learn More" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        }
+      }
     },
     "Play your content on devices remotely." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        }
+      }
     },
     "Preferences" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        }
+      }
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        }
+      }
     },
     "Resume episodes and remove any you want to skip." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        }
+      }
     },
     "Seamless integration" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless integration"
+          }
+        }
+      }
     },
     "Settings" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
     },
     "String Catalog Demo" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        }
+      }
     },
     "Support" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        }
+      }
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
