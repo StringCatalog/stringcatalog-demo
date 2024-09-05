@@ -55,8 +55,15 @@ struct ContentView: View {
                         .cornerRadius(12)
                 }
             }
+            .toolbar(content: {
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button("Settings", systemImage: "gear") {
+                         
+                    }
+                }
+            })
             .padding(.horizontal, 25)
-            .navigationBarHidden(true)
+            //.navigationBarHidden(true)
         }
         .sheet(isPresented: $showIntro) {
             IntroView(isPresented: $showIntro)

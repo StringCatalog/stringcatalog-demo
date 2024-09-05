@@ -4,29 +4,6 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment"
     },
-    "car count %lld" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "CarPlay Updates" : {
       "localizations" : {
         "en" : {
@@ -34,7 +11,7 @@
             "device" : {
               "ipod" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
+                  "state" : "translated",
                   "value" : "CarPlay Updates"
                 }
               },
@@ -100,19 +77,11 @@
     "Seamless integration" : {
 
     },
-    "String Catalog Demo" : {
+    "Settings" : {
 
     },
-    "test" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "test"
-          }
-        }
-      }
+    "String Catalog Demo" : {
+
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
