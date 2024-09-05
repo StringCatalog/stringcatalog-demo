@@ -117,6 +117,8 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
+				de,
 			);
 			mainGroup = 37C55FB12BE2EBC200EE5F8E;
 			productRefGroup = 37C55FBB2BE2EBC200EE5F8E /* Products */;
