@@ -1,28 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Account" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Account"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cuenta"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "บัญชี"
-          }
-        }
-      }
-    },
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
@@ -237,6 +215,22 @@
         }
       }
     },
+    "Hello, World!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
     "Improved Up Next" : {
       "localizations" : {
         "en" : {
@@ -299,28 +293,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "เล่นเนื้อหาของคุณจากระยะไกลบนอุปกรณ์ต่าง ๆ"
-          }
-        }
-      }
-    },
-    "Preferences" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferences"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferencias"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การตั้งค่า"
           }
         }
       }
@@ -431,28 +403,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "String Catalog Demo"
-          }
-        }
-      }
-    },
-    "Support" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Support"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Soporte"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การสนับสนุน"
           }
         }
       }
