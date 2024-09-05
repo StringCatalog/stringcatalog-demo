@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Account" : {
+
+    },
     "Airplay Feature" : {
       "comment" : "airplay feature comment"
     },
@@ -68,6 +71,9 @@
     "Play your content on devices remotely." : {
 
     },
+    "Preferences" : {
+
+    },
     "Quickly pick up where you left off or find new shows in Browse." : {
 
     },
@@ -81,6 +87,9 @@
 
     },
     "String Catalog Demo" : {
+
+    },
+    "Support" : {
 
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
