@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		375C5F932C89E41D00D0B140 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375C5F922C89E41D00D0B140 /* SettingsView.swift */; };
 		37C55FBE2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C55FBD2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift */; };
 		37C55FC02BE2EBC200EE5F8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C55FBF2BE2EBC200EE5F8E /* ContentView.swift */; };
 		37C55FC22BE2EBC300EE5F8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37C55FC12BE2EBC300EE5F8E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		375C5F922C89E41D00D0B140 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		37C55FBA2BE2EBC200EE5F8E /* StringCatalogDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringCatalogDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37C55FBD2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCatalogDemoApp.swift; sourceTree = "<group>"; };
 		37C55FBF2BE2EBC200EE5F8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				37C55FBD2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift */,
 				37C55FBF2BE2EBC200EE5F8E /* ContentView.swift */,
 				37C55FCC2BE2EC4000EE5F8E /* Localizable.xcstrings */,
+				375C5F922C89E41D00D0B140 /* SettingsView.swift */,
 				37C55FC12BE2EBC300EE5F8E /* Assets.xcassets */,
 				37C55FC32BE2EBC300EE5F8E /* StringCatalogDemo.entitlements */,
 				37C55FC42BE2EBC300EE5F8E /* Preview Content */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				375C5F932C89E41D00D0B140 /* SettingsView.swift in Sources */,
 				37C55FC02BE2EBC200EE5F8E /* ContentView.swift in Sources */,
 				37C55FBE2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift in Sources */,
 			);
