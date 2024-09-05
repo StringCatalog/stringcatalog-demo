@@ -1,9 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Account" : {
-
-    },
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
@@ -152,9 +149,6 @@
         }
       }
     },
-    "Dark Mode" : {
-
-    },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
         "en" : {
@@ -199,9 +193,6 @@
         }
       }
     },
-    "Email" : {
-
-    },
     "Explore the power of localization" : {
       "localizations" : {
         "en" : {
@@ -225,7 +216,6 @@
       }
     },
     "Hello, World!" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -246,9 +236,6 @@
           }
         }
       }
-    },
-    "Help" : {
-
     },
     "Improved Up Next" : {
       "localizations" : {
@@ -294,12 +281,6 @@
         }
       }
     },
-    "Notifications" : {
-
-    },
-    "Password" : {
-
-    },
     "Play your content on devices remotely." : {
       "localizations" : {
         "en" : {
@@ -322,15 +303,6 @@
         }
       }
     },
-    "Preferences" : {
-
-    },
-    "Privacy" : {
-
-    },
-    "Profile" : {
-
-    },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
         "en" : {
@@ -352,12 +324,6 @@
           }
         }
       }
-    },
-    "Rate App" : {
-
-    },
-    "Report a Problem" : {
-
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
@@ -446,9 +412,6 @@
           }
         }
       }
-    },
-    "Support" : {
-
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
