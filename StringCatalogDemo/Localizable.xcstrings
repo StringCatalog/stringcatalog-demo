@@ -2,7 +2,26 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Account" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuenta"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "บัญชี"
+          }
+        }
+      }
     },
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
@@ -153,7 +172,26 @@
       }
     },
     "Dark Mode" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Mode"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo Oscuro"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โหมดมืด"
+          }
+        }
+      }
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
@@ -200,7 +238,26 @@
       }
     },
     "Email" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "อีเมล"
+          }
+        }
+      }
     },
     "Explore the power of localization" : {
       "localizations" : {
@@ -224,31 +281,27 @@
         }
       }
     },
-    "Hello, World!" : {
-      "extractionState" : "stale",
+    "Help" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hello, World!"
+            "value" : "Help"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : ""
+            "value" : "Ayuda"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : ""
+            "value" : "ช่วยเหลือ"
           }
         }
       }
-    },
-    "Help" : {
-
     },
     "Improved Up Next" : {
       "localizations" : {
@@ -295,10 +348,48 @@
       }
     },
     "Notifications" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificaciones"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การแจ้งเตือน"
+          }
+        }
+      }
     },
     "Password" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รหัสผ่าน"
+          }
+        }
+      }
     },
     "Play your content on devices remotely." : {
       "localizations" : {
@@ -323,13 +414,70 @@
       }
     },
     "Preferences" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การตั้งค่า"
+          }
+        }
+      }
     },
     "Privacy" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ความเป็นส่วนตัว"
+          }
+        }
+      }
     },
     "Profile" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfil"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "โปรไฟล์"
+          }
+        }
+      }
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
@@ -354,10 +502,48 @@
       }
     },
     "Rate App" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate App"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calificar App"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ให้คะแนนแอป"
+          }
+        }
+      }
     },
     "Report a Problem" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report a Problem"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reportar un problema"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "รายงานปัญหา"
+          }
+        }
+      }
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
@@ -448,7 +634,26 @@
       }
     },
     "Support" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soporte"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สนับสนุน"
+          }
+        }
+      }
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
