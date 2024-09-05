@@ -217,6 +217,12 @@
     },
     "Hello, World!" : {
       "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello, World!"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
