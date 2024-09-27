@@ -2,7 +2,21 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Airplay Feature" : {
-      "comment" : "airplay feature comment"
+      "comment" : "airplay feature comment",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay-ominaisuus"
+          }
+        }
+      }
     },
     "car count %lld" : {
       "extractionState" : "stale",
@@ -20,6 +34,24 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "car count %lld"
+                }
+              }
+            }
+          }
+        },
+        "fi" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "autojen määrä %lld"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "autojen määrä %lld"
                 }
               }
             }
@@ -46,11 +78,42 @@
               }
             }
           }
+        },
+        "fi" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-päivitykset"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-päivitykset"
+                }
+              }
+            }
+          }
         }
       }
     },
     "Centralized string management" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralized string management"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keskitetty merkkijonon hallinta"
+          }
+        }
+      }
     },
     "Channels in Library" : {
       "comment" : "channel title",
@@ -59,6 +122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Channels in Library"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanavat kirjastossa"
           }
         }
       }
@@ -70,38 +139,174 @@
             "state" : "translated",
             "value" : "Continue"
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatka"
+          }
         }
       }
     },
     "Easily access followed shows and more from your channels." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pääset helposti käsiksi seuraamiisi ohjelmiin ja muihin kanavilla oleviin sisältöihin."
+          }
+        }
+      }
     },
     "Easy localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localization"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helppo lokalisaatio"
+          }
+        }
+      }
     },
     "Explore the power of localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koe lokalisoinnin voima"
+          }
+        }
+      }
     },
     "Improved Up Next" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parannettu Up Next"
+          }
+        }
+      }
     },
     "Learn More" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisätietoja"
+          }
+        }
+      }
     },
     "Play your content on devices remotely." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toista sisältöä laitteilla etäyhteydellä."
+          }
+        }
+      }
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatka siitä, mihin jäit, tai etsi uusia ohjelmia Selaa-osiosta."
+          }
+        }
+      }
     },
     "Resume episodes and remove any you want to skip." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jatka jaksoja ja poista haluamasi jaksot, jotka haluat ohittaa."
+          }
+        }
+      }
     },
     "Seamless integration" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless integration"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saumaton integrointi"
+          }
+        }
+      }
     },
     "String Catalog Demo" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        }
+      }
     },
     "test" : {
       "extractionState" : "stale",
@@ -110,6 +315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "test"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "testi"
           }
         }
       }
@@ -121,6 +332,12 @@
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
           }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts Subscriptions -tilauksista ostamasi podcastit liittyvät Apple ID:hesi. Laitteen luottopisteet käytetään petosten estämiseen. Podcast-kuuntelut ja -vuorovaikutukset parantavat ja henkilökohtaistavat palvelua ja niitä ei liitetä Apple ID:hesi. Katso, miten tietojasi hallitaan..."
+          }
         }
       }
     },
@@ -130,6 +347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitä uutta Orange Podcasteissa"
           }
         }
       }
