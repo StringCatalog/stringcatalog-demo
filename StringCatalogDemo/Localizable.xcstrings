@@ -475,50 +475,46 @@
         }
       }
     },
-    "Explore the power of localization" : {
+    "Explore the power of localization and more!" : {
       "comment" : "secondary title",
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explore the power of localization"
+            "value" : "Explore the power of localization and more!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explora el poder de la localización"
+            "value" : "¡Explora el poder de la localización y más!"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สำรวจพลังของการแปลภาษา"
+            "value" : "สำรวจพลังของการโลคัลไลเซชันและอื่น ๆ อีกมากมาย!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索本地化的强大功能"
+            "value" : "探索本地化的强大功能及更多！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索本地化的強大功能"
+            "value" : "探索在地化的力量及更多！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索本地化的強大功能"
+            "value" : "探索本地化的力量及其他功能！"
           }
         }
       }
-    },
-    "Explore the power of localization and more!" : {
-      "comment" : "secondary title"
     },
     "Help" : {
       "localizations" : {
