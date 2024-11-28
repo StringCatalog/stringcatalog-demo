@@ -313,7 +313,8 @@
             "value" : "繼續"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "Dark Mode" : {
       "localizations" : {
