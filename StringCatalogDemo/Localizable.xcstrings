@@ -15,6 +15,12 @@
             "value" : "Cuenta"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -54,6 +60,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Función de Airplay"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay-functie"
           }
         },
         "th" : {
@@ -115,6 +127,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Actualizaciones de CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "nl" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-updates"
                 }
               }
             }
@@ -208,6 +238,12 @@
             "value" : "Gestión centralizada de cadenas"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gecentraliseerd stringbeheer"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -249,6 +285,12 @@
             "value" : "Canales en Biblioteca"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanalen in Bibliotheek"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -287,6 +329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
           }
         },
         "th" : {
@@ -330,6 +378,12 @@
             "value" : "Modo Oscuro"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donkere modus"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -368,6 +422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toegang tot gevolgde shows en meer vanuit je kanalen."
           }
         },
         "th" : {
@@ -410,6 +470,12 @@
             "value" : "Localización fácil"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemakkelijke lokalisatie"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -448,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Correo electrónico"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
           }
         },
         "th" : {
@@ -491,6 +563,12 @@
             "value" : "¡Explora el poder de la localización y más!"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontdek de kracht van lokalisatie en meer!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -529,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ayuda"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
           }
         },
         "th" : {
@@ -571,6 +655,12 @@
             "value" : "Mejorado Up Next"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbeterde Volgende"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -609,6 +699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprender más"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer informatie"
           }
         },
         "th" : {
@@ -651,6 +747,12 @@
             "value" : "Notificaciones"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meldingen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -689,6 +791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contraseña"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord"
           }
         },
         "th" : {
@@ -731,6 +839,12 @@
             "value" : "Reproduce tu contenido en dispositivos de forma remota."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speel je inhoud op afstand af op apparaten."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -769,6 +883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preferencias"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voorkeuren"
           }
         },
         "th" : {
@@ -811,6 +931,12 @@
             "value" : "Privacidad"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -849,6 +975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfil"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiel"
           }
         },
         "th" : {
@@ -891,6 +1023,12 @@
             "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ga snel verder waar je was gebleven of vind nieuwe shows in Bladeren."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -929,6 +1067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calificar App"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App beoordelen"
           }
         },
         "th" : {
@@ -971,6 +1115,12 @@
             "value" : "Reportar un problema"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een probleem melden"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1009,6 +1159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hervat afleveringen en verwijder de afleveringen die je wilt overslaan."
           }
         },
         "th" : {
@@ -1051,6 +1207,12 @@
             "value" : "Integración sin problemas"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naadloze integratie"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1091,6 +1253,12 @@
             "value" : "Configuraciones"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1126,6 +1294,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "String Catalog Demo"
@@ -1171,6 +1345,12 @@
             "value" : "Soporte"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondersteuning"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1211,6 +1391,12 @@
             "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De podcasts die je koopt in Apple Podcasts-abonnementen zijn gekoppeld aan je Apple ID. Je apparaatvertrouwensscore wordt gebruikt om fraude te voorkomen. Gegevens over je podcastluistergedrag en interacties worden ook gebruikt om de service te verbeteren en te personaliseren en worden niet gekoppeld aan je Apple ID. Zie hoe je gegevens worden beheerd..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1249,6 +1435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novedades en Orange Podcasts"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is nieuw in Orange Podcasts"
           }
         },
         "th" : {
