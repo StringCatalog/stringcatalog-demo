@@ -2,33 +2,48 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Airplay Feature" : {
-      "comment" : "airplay feature comment"
-    },
-    "car count %lld" : {
-      "extractionState" : "stale",
+      "comment" : "airplay feature comment",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkce Airplay"
+          }
+        },
         "en" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "car count %lld"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "new",
-                  "value" : "car count %lld"
-                }
-              }
-            }
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Функція Airplay"
           }
         }
       }
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "cs" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aktualizace CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aktualizace CarPlay"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "device" : {
@@ -46,90 +61,354 @@
               }
             }
           }
+        },
+        "uk" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Оновлення CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Оновлення CarPlay"
+                }
+              }
+            }
+          }
         }
       }
     },
     "Centralized string management" : {
-
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralizovaná správa řetězců"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralized string management"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Централізоване управління рядками"
+          }
+        }
+      }
     },
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanály v knihovně"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Channels in Library"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Канали у бібліотеці"
           }
         }
       }
     },
     "Continue" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продовжити"
+          }
         }
       }
     },
     "Easily access followed shows and more from your channels." : {
-
-    },
-    "Easy localization" : {
-
-    },
-    "Explore the power of localization" : {
-
-    },
-    "Improved Up Next" : {
-
-    },
-    "Learn More" : {
-
-    },
-    "Play your content on devices remotely." : {
-
-    },
-    "Quickly pick up where you left off or find new shows in Browse." : {
-
-    },
-    "Resume episodes and remove any you want to skip." : {
-
-    },
-    "Seamless integration" : {
-
-    },
-    "String Catalog Demo" : {
-
-    },
-    "test" : {
-      "extractionState" : "stale",
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snadno přistupujte k sledovaným pořadům a dalším věcem z vašich kanálů."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "test"
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Легкий доступ до підписаних шоу та іншого з ваших каналів."
+          }
+        }
+      }
+    },
+    "Easy localization" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snadná lokalizace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localization"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Проста локалізація"
+          }
+        }
+      }
+    },
+    "Explore the power of localization" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prozkoumejte sílu lokalizace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Досліджуйте можливості локалізації"
+          }
+        }
+      }
+    },
+    "Improved Up Next" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vylepšené Up Next"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поліпшено функцію \"Up Next\""
+          }
+        }
+      }
+    },
+    "Learn More" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zjistit více"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дізнатися більше"
+          }
+        }
+      }
+    },
+    "Play your content on devices remotely." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přehrajte svůj obsah na zařízeních na dálku."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відтворюйте ваш контент на пристроях віддалено."
+          }
+        }
+      }
+    },
+    "Quickly pick up where you left off or find new shows in Browse." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rychle se vraťte, kde jste skončili, nebo najděte nové pořady v Prohlížení."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швидко повертайтеся до перегляду або знайдіть нові шоу в \"Перегляді\"."
+          }
+        }
+      }
+    },
+    "Resume episodes and remove any you want to skip." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračujte v epizodách a odstraňte ty, které chcete přeskočit."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продовжте епізоди та видаліть ті, які ви хочете пропустити."
+          }
+        }
+      }
+    },
+    "Seamless integration" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezproblémová integrace"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless integration"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Безперешкодна інтеграція"
+          }
+        }
+      }
+    },
+    "String Catalog Demo" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
           }
         }
       }
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podcasty, které si zakoupíte v rámci předplatného Apple Podcasts, jsou spojeny s vaším Apple ID. Důvěryhodnost vašeho zařízení se používá k prevenci podvodů. Data o poslechu vašich podcastů a interakcích se také používají k vylepšení a personalizaci služby a nejsou spojována s vaším Apple ID. Podívejte se, jak jsou vaše data spravována..."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подкасти, які ви купуєте в Apple Podcasts Subscriptions, пов'язані з вашим Apple ID. Ваш рейтинг довіри пристрою використовується для запобігання шахрайству. Дані про прослуховування подкастів і взаємодії також використовуються для покращення та персоналізації сервісу та не пов'язані з вашим Apple ID. Дивіться, як управляються ваші дані..."
           }
         }
       }
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novinky v Orange Podcasts"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Що нового в Orange Podcasts"
           }
         }
       }
