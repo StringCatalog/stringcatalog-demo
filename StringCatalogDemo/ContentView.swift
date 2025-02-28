@@ -29,6 +29,10 @@ struct ContentView: View {
                     Text("Explore the power of localization and more!", comment: "secondary title")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
+                    
+                    Text("\(1) lannguages", comment: "secondary title")
+                        .font(.subheadline)
+                        .foregroundColor(.secondary)
                 }
                 
                 VStack(alignment: .leading, spacing: 20) {
