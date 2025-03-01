@@ -2,7 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "%lld lannguages" : {
-      "comment" : "secondary title",
+      "comment" : "plural title 1",
       "localizations" : {
         "en" : {
           "variations" : {
@@ -17,6 +17,29 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "%lld lannguages"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld pics" : {
+      "comment" : "plural title 2",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld pic"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld pics"
                 }
               }
             }
