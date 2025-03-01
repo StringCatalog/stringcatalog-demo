@@ -30,7 +30,7 @@ struct ContentView: View {
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                     
-                    Text("\(1) lannguages", comment: "plural title 1")
+                    Text("\(1) languages", comment: "plural title 1")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                     

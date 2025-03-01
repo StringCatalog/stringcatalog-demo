@@ -1,7 +1,7 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "%lld lannguages" : {
+    "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
         "en" : {
@@ -10,13 +10,13 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld lannguage"
+                  "value" : "%lld language"
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
-                  "value" : "%lld lannguages"
+                  "value" : "%lld languages"
                 }
               }
             }
