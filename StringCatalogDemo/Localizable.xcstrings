@@ -21,6 +21,150 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idioma"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idiomas"
+                }
+              }
+            }
+          }
+        },
+        "es-419" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idioma"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idiomas"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld langue"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld langues"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              }
+            }
+          }
+        },
+        "th" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld ภาษา"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld ภาษา"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 语言"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 种语言"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 語言"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 種語言"
+                }
+              }
+            }
+          }
+        },
+        "zh-HK" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 語言"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 種語言"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -44,6 +188,150 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld fotos"
+                }
+              }
+            }
+          }
+        },
+        "es-419" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld fotos"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld photo"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld photos"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              }
+            }
+          }
+        },
+        "th" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld รูป"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld รูป"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 张照片"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 张照片"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 張照片"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 張照片"
+                }
+              }
+            }
+          }
+        },
+        "zh-HK" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 張相"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 張相"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -59,6 +347,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cuenta"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuenta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compte"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウント"
           }
         },
         "th" : {
@@ -100,6 +406,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Función de Airplay"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Función de Airplay"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonction Airplay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay機能"
           }
         },
         "th" : {
@@ -161,6 +485,60 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Actualizaciones de CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "es-419" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Actualizaciones de CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Actualizaciones de CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mises à jour CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
                 }
               }
             }
@@ -254,6 +632,24 @@
             "value" : "Gestión centralizada de cadenas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestión centralizada de cadenas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestion centralisée des chaînes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "集中管理された文字列管理"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -295,6 +691,24 @@
             "value" : "Canales en Biblioteca"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canales en la biblioteca"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaînes dans la bibliothèque"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリのチャンネル"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -333,6 +747,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
           }
         },
         "th" : {
@@ -376,6 +808,24 @@
             "value" : "Modo Oscuro"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo oscuro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode sombre"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークモード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -414,6 +864,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accede fácil a los shows que sigues y más desde tus canales."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accède facilement aux shows suivis et plus depuis tes chaînes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォロー中の番組やチャンネルから簡単にアクセス。"
           }
         },
         "th" : {
@@ -456,6 +924,24 @@
             "value" : "Localización fácil"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localización fácil"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation facile"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡単なローカライズ"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -494,6 +980,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Correo electrónico"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
           }
         },
         "th" : {
@@ -537,6 +1041,24 @@
             "value" : "¡Explora el poder de la localización y más!"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Explora el poder de la localización y más!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvre la puissance de la localisation et plus encore !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカライズの力を探ろう！"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -575,6 +1097,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ayuda"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
           }
         },
         "th" : {
@@ -617,6 +1157,24 @@
             "value" : "Mejorado Up Next"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejoras en A Continuación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amélioration de À suivre"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "次に再生の改善"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -655,6 +1213,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprender más"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más info"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En savoir plus"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっと知る"
           }
         },
         "th" : {
@@ -697,6 +1273,24 @@
             "value" : "Notificaciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificaciones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -735,6 +1329,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contraseña"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mot de passe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
           }
         },
         "th" : {
@@ -777,6 +1389,24 @@
             "value" : "Reproduce tu contenido en dispositivos de forma remota."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproduce tu contenido en dispositivos de forma remota."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lis ton contenu sur des appareils à distance."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツをリモートでデバイスに再生。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -815,6 +1445,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preferencias"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Préférences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "th" : {
@@ -857,6 +1505,24 @@
             "value" : "Privacidad"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confidentialité"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシー"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -895,6 +1561,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfil"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfil"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロフィール"
           }
         },
         "th" : {
@@ -937,6 +1621,24 @@
             "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retoma rápido donde te quedaste o encuentra nuevos shows en Explorar."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprends vite là où tu t'es arrêté ou trouve de nouveaux shows dans Parcourir."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続きからすぐに再開したり、ブラウズで新しい番組を見つけたり。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -975,6 +1677,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calificar App"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calificar app"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noter l'app"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを評価"
           }
         },
         "th" : {
@@ -1017,6 +1737,24 @@
             "value" : "Reportar un problema"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reportar un problema"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signaler un problème"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題を報告"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1055,6 +1793,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reanuda episodios y elimina los que quieras saltarte."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprends les épisodes et supprime ceux que tu veux zapper."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エピソードを再開して、スキップしたいものを削除。"
           }
         },
         "th" : {
@@ -1097,6 +1853,24 @@
             "value" : "Integración sin problemas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integración sin problemas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégration fluide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シームレスな統合"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1137,6 +1911,24 @@
             "value" : "Configuraciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1172,6 +1964,24 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "String Catalog Demo"
@@ -1217,6 +2027,24 @@
             "value" : "Soporte"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soporte"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1257,6 +2085,24 @@
             "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los podcasts que compras en Suscripciones de Apple Podcasts están asociados con tu Apple ID. La puntuación de confianza de tu dispositivo se usa para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se usan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Mira cómo se gestionan tus datos..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les podcasts que tu achètes dans les abonnements Apple Podcasts sont associés à ton identifiant Apple. Le score de confiance de ton appareil est utilisé pour prévenir la fraude. Les données sur ton écoute de podcasts et tes interactions sont aussi utilisées pour améliorer et personnaliser le service et ne sont pas associées à ton identifiant Apple. Découvre comment tes données sont gérées..."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcastsのサブスクリプションで購入したポッドキャストはApple IDに関連付けられています。デバイスの信頼スコアは不正防止に使用されます。ポッドキャストの視聴データやインタラクションデータもサービスの改善とパーソナライズに使用されますが、Apple IDとは関連付けられません。データの管理方法を確認..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1295,6 +2141,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novedades en Orange Podcasts"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novedades en Orange Podcasts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveautés dans Orange Podcasts"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcastsの新機能"
           }
         },
         "th" : {
