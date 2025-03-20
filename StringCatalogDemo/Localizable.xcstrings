@@ -15,7 +15,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld languages"
                 }
               }
@@ -128,7 +128,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld pics"
                 }
               }
@@ -279,7 +279,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Función de Airplay"
+            "value" : "Función Airplay"
           }
         },
         "th" : {
@@ -321,7 +321,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "CarPlay Updates"
                 }
               }
@@ -472,7 +472,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canales en Biblioteca"
+            "value" : "Canales en la Biblioteca"
           }
         },
         "th" : {
@@ -512,7 +512,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar"
+            "value" : "Continue"
           }
         },
         "th" : {
@@ -553,7 +553,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modo Oscuro"
+            "value" : "Modo oscuro"
           }
         },
         "th" : {
@@ -708,13 +708,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explore the power of localization and more!"
+            "value" : "Check out the awesome world of localization and beyond!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
+            "value" : "¡Descubre el poder de la localización y mucho más!"
           }
         },
         "th" : {
@@ -794,7 +794,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mejorado Up Next"
+            "value" : "Mejorado Próximo"
           }
         },
         "th" : {
@@ -834,7 +834,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprender más"
+            "value" : "Más información"
           }
         },
         "th" : {
@@ -948,7 +948,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Play your content on devices remotely."
+            "value" : "Stream your stuff to devices from afar."
           }
         },
         "es" : {
@@ -1114,7 +1114,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
+            "value" : "Retoma rápidamente donde lo dejaste o encuentra nuevos programas en Explorar."
           }
         },
         "th" : {
@@ -1154,7 +1154,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificar App"
+            "value" : "Califica la app"
           }
         },
         "th" : {
@@ -1228,13 +1228,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resume episodes and remove any you want to skip."
+            "value" : "Pick up where you left off with episodes and ditch any you wanna skip."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
+            "value" : "Continúa con los episodios y elimina los que quieras saltarte."
           }
         },
         "th" : {
@@ -1268,7 +1268,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seamless integration"
+            "value" : "Smooth integration"
           }
         },
         "es" : {
@@ -1314,7 +1314,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configuraciones"
+            "value" : "Configuración"
           }
         },
         "th" : {
@@ -1354,7 +1354,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "String Catalog Demo"
+            "value" : "Demostración de stringcatalog-demo"
           }
         },
         "th" : {
@@ -1428,13 +1428,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+            "value" : "The podcasts you buy in Apple Podcasts Subscriptions are linked to your Apple ID. Your device trust score helps stop fraud. Info on your podcast listening and interactions is used to make the service better and more personal, but it’s not tied to your Apple ID. Check out how your data is managed..."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
+            "value" : "Los podcasts que compras en Apple Podcasts Subscriptions están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se usa para prevenir fraudes. Los datos sobre cómo escuchas e interactúas con los podcasts también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Mira cómo se gestiona tu información..."
           }
         },
         "th" : {
