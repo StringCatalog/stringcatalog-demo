@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		375C5F932C89E41D00D0B140 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375C5F922C89E41D00D0B140 /* SettingsView.swift */; };
+		3762D4A62D8CB49600296EF5 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 3762D4A52D8CB49600296EF5 /* InfoPlist.xcstrings */; };
 		37C55FBE2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C55FBD2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift */; };
 		37C55FC02BE2EBC200EE5F8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C55FBF2BE2EBC200EE5F8E /* ContentView.swift */; };
 		37C55FC22BE2EBC300EE5F8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37C55FC12BE2EBC300EE5F8E /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		375C5F922C89E41D00D0B140 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		3762D4A52D8CB49600296EF5 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		37C55FBA2BE2EBC200EE5F8E /* StringCatalogDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StringCatalogDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37C55FBD2BE2EBC200EE5F8E /* StringCatalogDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCatalogDemoApp.swift; sourceTree = "<group>"; };
 		37C55FBF2BE2EBC200EE5F8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				375C5F922C89E41D00D0B140 /* SettingsView.swift */,
 				37C55FC12BE2EBC300EE5F8E /* Assets.xcassets */,
 				37C55FC32BE2EBC300EE5F8E /* StringCatalogDemo.entitlements */,
+				3762D4A52D8CB49600296EF5 /* InfoPlist.xcstrings */,
 				37C55FC42BE2EBC300EE5F8E /* Preview Content */,
 			);
 			path = StringCatalogDemo;
@@ -117,6 +120,7 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
 			);
 			mainGroup = 37C55FB12BE2EBC200EE5F8E;
 			productRefGroup = 37C55FBB2BE2EBC200EE5F8E /* Products */;
@@ -135,6 +139,7 @@
 			files = (
 				37C55FC62BE2EBC300EE5F8E /* Preview Assets.xcassets in Resources */,
 				37C55FC22BE2EBC300EE5F8E /* Assets.xcassets in Resources */,
+				3762D4A62D8CB49600296EF5 /* InfoPlist.xcstrings in Resources */,
 				37C55FCD2BE2EC4000EE5F8E /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -213,6 +218,7 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -268,6 +274,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 			};
 			name = Release;
 		};
@@ -285,6 +292,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Add items to your photos";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -324,6 +332,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Add items to your photos";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
