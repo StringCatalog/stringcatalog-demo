@@ -53,32 +53,32 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Añade cosas a tus fotos"
+            "state" : "translated",
+            "value" : "Agrega cosas a tus fotos. Probando."
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "เพิ่มไอเท็มในรูปของคุณ"
+            "state" : "translated",
+            "value" : "เพิ่มไอเท็มลงในรูปของคุณ ลองดูสิ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "给你的照片加点东西"
+            "state" : "translated",
+            "value" : "给你的照片加点东西。测试中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "在你的照片中添加項目"
+            "state" : "translated",
+            "value" : "在你的照片中添加項目。測試中。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "將項目添加到你的照片中"
+            "state" : "translated",
+            "value" : "為你的相片添加項目。測試中。"
           }
         }
       }
