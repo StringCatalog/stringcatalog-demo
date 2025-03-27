@@ -1263,7 +1263,11 @@
         }
       }
     },
+    "Seamless Github integration" : {
+
+    },
     "Seamless integration" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
