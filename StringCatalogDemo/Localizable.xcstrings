@@ -40,6 +40,42 @@
             }
           }
         },
+        "es-419" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idioma"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld idiomas"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld langue"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld langues"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -153,6 +189,42 @@
             }
           }
         },
+        "es-419" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld fotos"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld image"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld images"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -241,6 +313,18 @@
             "value" : "Cuenta"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuenta"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compte"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -280,6 +364,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Función de Airplay"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Función Airplay"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonction Airplay"
           }
         },
         "th" : {
@@ -341,6 +437,42 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Actualizaciones de CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "es-419" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Actualizaciones de CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Actualizaciones de CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "fr" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mises à jour CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mises à jour CarPlay"
                 }
               }
             }
@@ -434,6 +566,18 @@
             "value" : "Gestión centralizada de cadenas"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestión centralizada de cadenas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestion centralisée des chaînes de caractères"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -475,6 +619,18 @@
             "value" : "Canales en Biblioteca"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canales en la biblioteca"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaînes dans la bibliothèque"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -513,6 +669,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
           }
         },
         "th" : {
@@ -556,6 +724,18 @@
             "value" : "Modo Oscuro"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo oscuro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode sombre"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -594,6 +774,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
           }
         },
         "th" : {
@@ -636,6 +828,18 @@
             "value" : "Localización fácil"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localización fácil"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation facile"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -674,6 +878,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Correo electrónico"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
           }
         },
         "th" : {
@@ -717,6 +933,18 @@
             "value" : "¡Explora el poder de la localización y más!"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Explora el poder de la localización y más!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorez le pouvoir de la localisation et plus encore !"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +983,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ayuda"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aide"
           }
         },
         "th" : {
@@ -797,6 +1037,18 @@
             "value" : "Mejorado Up Next"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejoras en Up Next"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amélioration de la file d'attente"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -835,6 +1087,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprender más"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más información"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En savoir plus"
           }
         },
         "th" : {
@@ -877,6 +1141,18 @@
             "value" : "Notificaciones"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notificaciones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -915,6 +1191,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contraseña"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mot de passe"
           }
         },
         "th" : {
@@ -957,6 +1245,18 @@
             "value" : "Reproduce tu contenido en dispositivos de forma remota."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproduce tu contenido en dispositivos de forma remota."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisez votre contenu sur des appareils à distance."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -995,6 +1295,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preferencias"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Préférences"
           }
         },
         "th" : {
@@ -1037,6 +1349,18 @@
             "value" : "Privacidad"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confidentialité"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1075,6 +1399,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Perfil"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perfil"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
           }
         },
         "th" : {
@@ -1117,6 +1453,18 @@
             "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continúa rápidamente donde lo dejaste o encuentra nuevos programas en Explorar."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,6 +1503,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calificar App"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calificar la app"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Évaluer l'application"
           }
         },
         "th" : {
@@ -1197,6 +1557,18 @@
             "value" : "Reportar un problema"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informar un problema"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signaler un problème"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1237,6 +1609,18 @@
             "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reanuda episodios y elimina los que quieras omitir."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1264,45 +1648,53 @@
       }
     },
     "Seamless Github integration" : {
-
-    },
-    "Seamless integration" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seamless integration"
+            "value" : "Seamless Github integration"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Integración sin problemas"
+            "value" : "Integración fluida con Github"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integración fluida con Github"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégration transparente avec Github"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การรวมที่ราบรื่น"
+            "value" : "การผสานรวมกับ Github อย่างไร้รอยต่อ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无缝集成"
+            "value" : "无缝集成Github"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無縫集成"
+            "value" : "無縫的 Github 整合"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無縫整合"
+            "value" : "無縫 GitHub 整合"
           }
         }
       }
@@ -1319,6 +1711,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuraciones"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres"
           }
         },
         "th" : {
@@ -1361,6 +1765,18 @@
             "value" : "String Catalog Demo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demostración del catálogo de cadenas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démo du catalogue de chaînes de caractères"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1399,6 +1815,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soporte"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soporte"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
           }
         },
         "th" : {
@@ -1441,6 +1869,18 @@
             "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los podcasts que compras en Suscripciones de Apple Podcasts están asociados con tu ID de Apple. Tu puntaje de confianza del dispositivo se utiliza para prevenir el fraude. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu ID de Apple. Consulta cómo se gestionan tus datos..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1479,6 +1919,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novedades en Orange Podcasts"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novedades en Orange Podcasts"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
         "th" : {

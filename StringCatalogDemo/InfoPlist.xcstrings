@@ -16,6 +16,18 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53,32 +65,44 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Añade cosas a tus fotos"
+            "state" : "translated",
+            "value" : "Añade elementos a tus fotos. Prueba."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar elementos a tus fotos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter des éléments à vos photos"
           }
         },
         "th" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "เพิ่มไอเท็มในรูปของคุณ"
+            "state" : "translated",
+            "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "给你的照片加点东西"
+            "state" : "translated",
+            "value" : "将项目添加到您的照片中。测试。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "在你的照片中添加項目"
+            "state" : "translated",
+            "value" : "將項目添加到您的照片。測試中。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "將項目添加到你的照片中"
+            "state" : "translated",
+            "value" : "將項目添加到您的照片。測試中。"
           }
         }
       }
