@@ -76,6 +76,24 @@
             }
           }
         },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 언어"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 언어들"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -225,6 +243,24 @@
             }
           }
         },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 사진"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 사진들"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -325,6 +361,12 @@
             "value" : "Compte"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계정"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,6 +418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay 기능"
           }
         },
         "th" : {
@@ -473,6 +521,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
                 }
               }
             }
@@ -578,6 +644,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중앙 집중식 문자열 관리"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +703,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라이브러리의 채널"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -678,6 +756,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -736,6 +820,12 @@
             "value" : "Mode sombre"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다크 모드"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,6 +876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "팔로우한 쇼와 채널에서 더 많은 것을 쉽게 접근하세요."
           }
         },
         "th" : {
@@ -840,6 +936,12 @@
             "value" : "Localisation facile"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쉬운 현지화"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일"
           }
         },
         "th" : {
@@ -945,6 +1053,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현지화의 힘을 탐험해보세요!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -995,6 +1109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
           }
         },
         "th" : {
@@ -1049,6 +1169,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "향상된 다음 항목"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1099,6 +1225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더 알아보기"
           }
         },
         "th" : {
@@ -1153,6 +1285,12 @@
             "value" : "Notifications"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1203,6 +1341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
           }
         },
         "th" : {
@@ -1257,6 +1401,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기에서 원격으로 콘텐츠를 재생하세요."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1307,6 +1457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "th" : {
@@ -1361,6 +1517,12 @@
             "value" : "Confidentialité"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1411,6 +1573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로필"
           }
         },
         "th" : {
@@ -1465,6 +1633,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "빠르게 중단한 곳부터 시작하거나 탐색에서 새로운 쇼를 찾아보세요."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1515,6 +1689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 평가하기"
           }
         },
         "th" : {
@@ -1569,6 +1749,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제 신고하기"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1619,6 +1805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "에피소드를 다시 시작하고 건너뛰고 싶은 것은 삭제하세요."
           }
         },
         "th" : {
@@ -1673,6 +1865,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원활한 Github 통합"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1723,6 +1921,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "th" : {
@@ -1777,6 +1981,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1827,6 +2037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지원"
           }
         },
         "th" : {
@@ -1881,6 +2097,12 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts 구독에서 구매한 팟캐스트는 Apple ID와 연동됩니다. 기기 신뢰 점수는 사기를 방지하는 데 사용됩니다. 팟캐스트 청취 및 상호작용 데이터는 서비스 개선 및 개인화에 사용되며 Apple ID와 연동되지 않습니다. 데이터 관리 방법을 확인하세요..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1931,6 +2153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts의 새로운 점"
           }
         },
         "th" : {
