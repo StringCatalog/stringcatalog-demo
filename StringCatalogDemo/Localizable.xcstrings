@@ -2,7 +2,21 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Airplay Feature" : {
-      "comment" : "airplay feature comment"
+      "comment" : "airplay feature comment",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay 功能"
+          }
+        }
+      }
     },
     "car count %lld" : {
       "extractionState" : "stale",
@@ -20,6 +34,24 @@
                 "stringUnit" : {
                   "state" : "new",
                   "value" : "car count %lld"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "車輛數量 %lld"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "車輛數量 %lld"
                 }
               }
             }
@@ -46,11 +78,42 @@
               }
             }
           }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 更新"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 更新"
+                }
+              }
+            }
+          }
         }
       }
     },
     "Centralized string management" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralized string management"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "集中化的字符串管理"
+          }
+        }
+      }
     },
     "Channels in Library" : {
       "comment" : "channel title",
@@ -59,6 +122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Channels in Library"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "資料庫中的頻道"
           }
         }
       }
@@ -70,38 +139,174 @@
             "state" : "translated",
             "value" : "Continue"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繼續"
+          }
         }
       }
     },
     "Easily access followed shows and more from your channels." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輕鬆訪問您關注的節目及更多頻道內容。"
+          }
+        }
+      }
     },
     "Easy localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localization"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輕鬆本地化"
+          }
+        }
+      }
     },
     "Explore the power of localization" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "探索本地化的力量"
+          }
+        }
+      }
     },
     "Improved Up Next" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "改進的即將播放"
+          }
+        }
+      }
     },
     "Learn More" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "了解更多"
+          }
+        }
+      }
     },
     "Play your content on devices remotely." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在遠程設備上播放您的內容。"
+          }
+        }
+      }
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快速繼續上次中斷的地方或在瀏覽中找到新節目。"
+          }
+        }
+      }
     },
     "Resume episodes and remove any you want to skip." : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復播放集數並移除您想跳過的集數。"
+          }
+        }
+      }
     },
     "Seamless integration" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless integration"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無縫整合"
+          }
+        }
+      }
     },
     "String Catalog Demo" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        }
+      }
     },
     "test" : {
       "extractionState" : "stale",
@@ -110,6 +315,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "test"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "測試"
           }
         }
       }
@@ -121,6 +332,12 @@
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您在 Apple Podcasts 訂閱中購買的播客與您的 Apple ID 關聯。您的設備信任分數用於防止欺詐。您的播客收聽和互動數據也用於改進和個性化服務，且不與您的 Apple ID 關聯。查看您的數據如何被管理..."
+          }
         }
       }
     },
@@ -130,6 +347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts 的新功能"
           }
         }
       }
