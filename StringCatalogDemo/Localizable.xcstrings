@@ -918,62 +918,58 @@
         }
       }
     },
-    "Explore the power of localization and more!" : {
+    "Explore the power of localization and more!\n\nhello" : {
       "comment" : "secondary title",
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explore the power of localization and more!"
+            "value" : "Explore the power of localization and more!\n\nhello"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
+            "value" : "Explora el poder de la localización y más.\n\nhola"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
+            "value" : "Explora el poder de la localización y más.\n\nhola"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explorez le pouvoir de la localisation et plus encore !"
+            "value" : "Découvrez la puissance de la localisation et bien plus encore !\n\nbonjour"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สำรวจพลังของการโลคัลไลเซชันและอื่น ๆ อีกมากมาย!"
+            "value" : "สำรวจพลังของการแปลภาษาและอื่นๆ อีกมากมาย!\n\nสวัสดี"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索本地化的强大功能及更多！"
+            "value" : "探索本地化的力量及更多！\n\nhello"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索在地化的力量及更多！"
+            "value" : "探索本地化的力量及更多！\n\nhello"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "探索本地化的力量及其他功能！"
+            "value" : "探索本地化的力量及更多！\n\nhello"
           }
         }
       }
-    },
-    "Explore the power of localization and more!\n\nhello" : {
-      "comment" : "secondary title"
     },
     "Help" : {
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
