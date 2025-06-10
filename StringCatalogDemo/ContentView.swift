@@ -28,8 +28,6 @@ struct ContentView: View {
                     
                     Text("""
                          Explore the power of localization and more!
-
-                         hello
                          """, comment: "secondary title")
                         .font(.subheadline)
                         .foregroundColor(.secondary)

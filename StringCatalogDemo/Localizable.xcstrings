@@ -920,7 +920,6 @@
     },
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -971,9 +970,6 @@
           }
         }
       }
-    },
-    "Explore the power of localization and more!\n\nhello" : {
-      "comment" : "secondary title"
     },
     "Help" : {
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
