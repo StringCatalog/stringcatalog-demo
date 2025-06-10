@@ -973,7 +973,57 @@
       }
     },
     "Explore the power of localization and more!\n\nhello" : {
-      "comment" : "secondary title"
+      "comment" : "secondary title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization and more!\n\nhello"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Descubre lo genial que es la localización y mucho más!\n\nhola"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Descubre lo genial que es la localización y mucho más!\n\nhola"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvre la puissance de la localisation et bien plus encore !\n\nsalut"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาสำรวจพลังของการแปลและอะไรอีกเยอะเลย!\n\nhello"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来体验一下本地化的强大功能，还有更多精彩内容等你发现！\n\nhello"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "來體驗一下在地化的威力吧，還有更多驚喜等你發現！\n\nhello"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發掘本地化的威力，還有更多精彩內容！\n\nhello"
+          }
+        }
+      }
     },
     "Help" : {
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
