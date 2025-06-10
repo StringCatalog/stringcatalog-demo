@@ -76,6 +76,42 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 언어"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 언어들"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -225,6 +261,42 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld枚の写真"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld枚の写真"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 사진"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 사진들"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -325,6 +397,18 @@
             "value" : "Compte"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계정"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,6 +460,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay機能"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay 기능"
           }
         },
         "th" : {
@@ -473,6 +569,42 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayアップデート"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayアップデート"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
                 }
               }
             }
@@ -578,6 +710,18 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ストリングをまとめて管理しよう"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중앙 집중식 문자열 관리"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +775,18 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリ内のチャンネル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라이브러리의 채널"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -678,6 +834,18 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -736,6 +904,18 @@
             "value" : "Mode sombre"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークモード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다크 모드"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,6 +966,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォロー中の番組やチャンネルをサクッと見つけられるよ。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "팔로우한 쇼와 채널에서 더 많은 것을 쉽게 접근하세요."
           }
         },
         "th" : {
@@ -840,6 +1032,18 @@
             "value" : "Localisation facile"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡単ローカライズ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쉬운 현지화"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +1094,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일"
           }
         },
         "th" : {
@@ -946,6 +1162,18 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカライズの力とか、いろいろ体験しよう！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현지화의 힘을 탐험해보세요!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -973,7 +1201,69 @@
       }
     },
     "Explore the power of localization and more!\n\nhello" : {
-      "comment" : "secondary title"
+      "comment" : "secondary title",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization and more!\n\nhello"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Descubre lo genial que es la localización y mucho más!\n\nhola"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Descubre lo genial que es la localización y mucho más!\n\nhola"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvre la puissance de la localisation et bien plus encore !\n\nsalut"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカライズの力やいろんな機能を体験しよう！\n\nhello"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로컬라이제이션의 힘을 직접 느껴보고, 더 많은 걸 탐험해봐!\n\nhello"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "มาสำรวจพลังของการแปลและอะไรอีกเยอะเลย!\n\nhello"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来体验一下本地化的强大功能，还有更多精彩内容等你发现！\n\nhello"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "來體驗一下在地化的威力吧，還有更多驚喜等你發現！\n\nhello"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發掘本地化的威力，還有更多精彩內容！\n\nhello"
+          }
+        }
+      }
     },
     "Help" : {
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
@@ -1001,6 +1291,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
           }
         },
         "th" : {
@@ -1057,6 +1359,18 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「次に再生」がもっと便利になったよ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "향상된 다음 항목"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1107,6 +1421,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっと見る"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더 알아보기"
           }
         },
         "th" : {
@@ -1161,6 +1487,18 @@
             "value" : "Notifications"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1211,6 +1549,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
           }
         },
         "th" : {
@@ -1265,6 +1615,18 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツをリモートでデバイスに再生しよう。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기에서 원격으로 콘텐츠를 재생하세요."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1315,6 +1677,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "th" : {
@@ -1369,6 +1743,18 @@
             "value" : "Confidentialité"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1419,6 +1805,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロフィール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로필"
           }
         },
         "th" : {
@@ -1473,6 +1871,18 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前回の続きからすぐ再生したり、Browseで新しい番組を見つけたりできるよ。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "빠르게 중단한 곳부터 시작하거나 탐색에서 새로운 쇼를 찾아보세요."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1523,6 +1933,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを評価する"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 평가하기"
           }
         },
         "th" : {
@@ -1577,6 +1999,18 @@
             "value" : "Signaler un problème"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題を報告する"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제 신고하기"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1627,6 +2061,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エピソードを再開したり、スキップしたいものは削除できるよ。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "에피소드를 다시 시작하고 건너뛰고 싶은 것은 삭제하세요."
           }
         },
         "th" : {
@@ -1681,6 +2127,18 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シームレスなGithub連携"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원활한 Github 통합"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1731,6 +2189,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "th" : {
@@ -1785,6 +2255,18 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1835,6 +2317,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지원"
           }
         },
         "th" : {
@@ -1889,6 +2383,18 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcastsサブスクリプションで購入したポッドキャストは、あなたのApple IDに紐付いてるよ。デバイスの信頼スコアは不正防止に使われます。ポッドキャストの視聴や操作データもサービス向上やパーソナライズに使われるけど、Apple IDとは関連付けられません。データの管理方法はこちら..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts 구독에서 구매한 팟캐스트는 Apple ID와 연동됩니다. 기기 신뢰 점수는 사기를 방지하는 데 사용됩니다. 팟캐스트 청취 및 상호작용 데이터는 서비스 개선 및 개인화에 사용되며 Apple ID와 연동되지 않습니다. 데이터 관리 방법을 확인하세요..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1939,6 +2445,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcastsの新機能"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts의 새로운 점"
           }
         },
         "th" : {
