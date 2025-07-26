@@ -10,12 +10,6 @@
             "value" : "StringCatalogDemo"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "StringCatalogDemo"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23,12 +17,6 @@
           }
         },
         "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "StringCatalogDemo"
-          }
-        },
-        "th" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -63,12 +51,6 @@
             "value" : "Add items to your photos. Testing."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Añade elementos a tus fotos. Prueba."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79,12 +61,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
           }
         },
         "zh-Hans" : {

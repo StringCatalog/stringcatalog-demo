@@ -22,24 +22,6 @@
             }
           }
         },
-        "es" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld idioma"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld idiomas"
-                }
-              }
-            }
-          }
-        },
         "es-419" : {
           "variations" : {
             "plural" : {
@@ -71,24 +53,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld langues"
-                }
-              }
-            }
-          }
-        },
-        "th" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld ภาษา"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld ภาษา"
                 }
               }
             }
@@ -171,24 +135,6 @@
             }
           }
         },
-        "es" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld foto"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld fotos"
-                }
-              }
-            }
-          }
-        },
         "es-419" : {
           "variations" : {
             "plural" : {
@@ -220,24 +166,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld images"
-                }
-              }
-            }
-          }
-        },
-        "th" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld รูป"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld รูป"
                 }
               }
             }
@@ -307,12 +235,6 @@
             "value" : "Account"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cuenta"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -323,12 +245,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compte"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "บัญชี"
           }
         },
         "zh-Hans" : {
@@ -360,12 +276,6 @@
             "value" : "Airplay Feature"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Función de Airplay"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,12 +286,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ฟีเจอร์ Airplay"
           }
         },
         "zh-Hans" : {
@@ -424,24 +328,6 @@
             }
           }
         },
-        "es" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Actualizaciones de CarPlay"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Actualizaciones de CarPlay"
-                }
-              }
-            }
-          }
-        },
         "es-419" : {
           "variations" : {
             "device" : {
@@ -473,24 +359,6 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
-                }
-              }
-            }
-          }
-        },
-        "th" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "การอัปเดต CarPlay"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "การอัปเดต CarPlay"
                 }
               }
             }
@@ -560,12 +428,6 @@
             "value" : "Centralized string management"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestión centralizada de cadenas"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -576,12 +438,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestion centralisée des chaînes de caractères"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การจัดการสตริงแบบรวมศูนย์"
           }
         },
         "zh-Hans" : {
@@ -613,12 +469,6 @@
             "value" : "Channels in Library"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canales en Biblioteca"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,12 +479,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chaînes dans la bibliothèque"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ช่องในห้องสมุด"
           }
         },
         "zh-Hans" : {
@@ -665,12 +509,6 @@
             "value" : "Continue"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Continuar"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -681,12 +519,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ดำเนินการต่อ"
           }
         },
         "zh-Hans" : {
@@ -718,12 +550,6 @@
             "value" : "Dark Mode"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modo Oscuro"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -734,12 +560,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mode sombre"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "โหมดมืด"
           }
         },
         "zh-Hans" : {
@@ -770,12 +590,6 @@
             "value" : "Easily access followed shows and more from your channels."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,12 +600,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เข้าถึงรายการที่ติดตามและอื่น ๆ ได้อย่างง่ายดายจากช่องของคุณ"
           }
         },
         "zh-Hans" : {
@@ -822,12 +630,6 @@
             "value" : "Easy localization"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Localización fácil"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -838,12 +640,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localisation facile"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การแปลภาษาที่ง่ายดาย"
           }
         },
         "zh-Hans" : {
@@ -874,12 +670,6 @@
             "value" : "Email"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Correo electrónico"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,12 +680,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "อีเมล"
           }
         },
         "zh-Hans" : {
@@ -927,12 +711,6 @@
             "value" : "Explore the power of localization and more!"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -943,12 +721,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "สำรวจพลังของการโลคัลไลเซชันและอื่น ๆ อีกมากมาย!"
           }
         },
         "zh-Hans" : {
@@ -981,12 +753,6 @@
             "value" : "Help"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ayuda"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -997,12 +763,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ช่วยเหลือ"
           }
         },
         "zh-Hans" : {
@@ -1035,12 +795,6 @@
             "value" : "Improved Up Next"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mejorado Up Next"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1051,12 +805,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amélioration de la file d'attente"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การปรับปรุง Up Next"
           }
         },
         "zh-Hans" : {
@@ -1087,12 +835,6 @@
             "value" : "Learn More"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aprender más"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1103,12 +845,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เรียนรู้เพิ่มเติม"
           }
         },
         "zh-Hans" : {
@@ -1139,12 +875,6 @@
             "value" : "Notifications"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notificaciones"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,12 +885,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การแจ้งเตือน"
           }
         },
         "zh-Hans" : {
@@ -1191,12 +915,6 @@
             "value" : "Password"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Contraseña"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1207,12 +925,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "รหัสผ่าน"
           }
         },
         "zh-Hans" : {
@@ -1243,12 +955,6 @@
             "value" : "Play your content on devices remotely."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reproduce tu contenido en dispositivos de forma remota."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1259,12 +965,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisez votre contenu sur des appareils à distance."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "เล่นเนื้อหาของคุณจากระยะไกลบนอุปกรณ์ต่าง ๆ"
           }
         },
         "zh-Hans" : {
@@ -1295,12 +995,6 @@
             "value" : "Preferences"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preferencias"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1311,12 +1005,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การตั้งค่า"
           }
         },
         "zh-Hans" : {
@@ -1347,12 +1035,6 @@
             "value" : "Privacy"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Privacidad"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1363,12 +1045,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confidentialité"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ความเป็นส่วนตัว"
           }
         },
         "zh-Hans" : {
@@ -1399,12 +1075,6 @@
             "value" : "Profile"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perfil"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1415,12 +1085,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "โปรไฟล์"
           }
         },
         "zh-Hans" : {
@@ -1451,12 +1115,6 @@
             "value" : "Quickly pick up where you left off or find new shows in Browse."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1467,12 +1125,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "หยิบขึ้นได้อย่างรวดเร็วจากจุดที่คุณเลิกไปหรือค้นหารายการใหม่ใน Browse"
           }
         },
         "zh-Hans" : {
@@ -1503,12 +1155,6 @@
             "value" : "Rate App"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Calificar App"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1519,12 +1165,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ให้คะแนนแอป"
           }
         },
         "zh-Hans" : {
@@ -1555,12 +1195,6 @@
             "value" : "Report a Problem"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reportar un problema"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1571,12 +1205,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signaler un problème"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "รายงานปัญหา"
           }
         },
         "zh-Hans" : {
@@ -1607,12 +1235,6 @@
             "value" : "Resume episodes and remove any you want to skip."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1623,12 +1245,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ดำเนินการตอนต่อและลบรายการที่คุณต้องการข้ามออกไป"
           }
         },
         "zh-Hans" : {
@@ -1659,12 +1275,6 @@
             "value" : "Seamless Github integration"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Integración fluida con Github"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1675,12 +1285,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégration transparente avec Github"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การผสานรวมกับ Github อย่างไร้รอยต่อ"
           }
         },
         "zh-Hans" : {
@@ -1711,12 +1315,6 @@
             "value" : "Settings"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuraciones"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1727,12 +1325,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "การตั้งค่า"
           }
         },
         "zh-Hans" : {
@@ -1763,12 +1355,6 @@
             "value" : "String Catalog Demo"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1779,12 +1365,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo du catalogue de chaînes de caractères"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo"
           }
         },
         "zh-Hans" : {
@@ -1815,12 +1395,6 @@
             "value" : "Support"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Soporte"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,12 +1405,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "สนับสนุน"
           }
         },
         "zh-Hans" : {
@@ -1867,12 +1435,6 @@
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1883,12 +1445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "พ็อดคาสท์ที่คุณซื้อตั้งอยู่ใน Apple Podcasts Subscriptions จะเชื่อมโยงกับ Apple ID ของคุณ คะแนนความไว้วางใจของอุปกรณ์คุณใช้เพื่อป้องกันการฉ้อโกง ข้อมูลเกี่ยวกับการฟังพ็อดคาสท์และการโต้ตอบของคุณยังถูกใช้เพื่อปรับปรุงและปรersonalizethe บริการและไม่เชื่อมโยงกับ Apple ID ของคุณ ดูว่าข้อมูลของคุณถูกจัดการอย่างไร..."
           }
         },
         "zh-Hans" : {
@@ -1919,12 +1475,6 @@
             "value" : "What's New in Orange Podcasts"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Novedades en Orange Podcasts"
-          }
-        },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1935,12 +1485,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
-          }
-        },
-        "th" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "มีอะไรใหม่ใน Orange Podcasts"
           }
         },
         "zh-Hans" : {
