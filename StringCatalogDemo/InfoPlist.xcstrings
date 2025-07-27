@@ -4,6 +4,12 @@
     "CFBundleName" : {
       "comment" : "Bundle name",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -57,6 +63,12 @@
     "NSPhotoLibraryAddUsageDescription" : {
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف عناصر إلى صورك. اختبار."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
