@@ -28,6 +28,12 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,6 +86,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपनी फोटोज़ में आइटम्स जोड़ो। टेस्टिंग कर रहे हैं।"
           }
         },
         "th" : {
