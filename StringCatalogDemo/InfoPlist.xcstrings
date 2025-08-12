@@ -4,6 +4,12 @@
     "CFBundleName" : {
       "comment" : "Bundle name",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23,6 +29,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -58,6 +70,12 @@
     "NSPhotoLibraryAddUsageDescription" : {
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Πρόσθεσε αντικείμενα στις φωτογραφίες σου. Δοκιμή."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,6 +98,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपनी फोटोज़ में आइटम्स जोड़ो। टेस्टिंग कर रहे हैं।"
           }
         },
         "th" : {

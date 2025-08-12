@@ -4,6 +4,24 @@
     "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld γλώσσα"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld γλώσσες"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -71,6 +89,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld langues"
+                }
+              }
+            }
+          }
+        },
+        "hi" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld भाषा"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld भाषाएँ"
                 }
               }
             }
@@ -153,6 +189,24 @@
     "%lld pics" : {
       "comment" : "plural title 2",
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld φωτό"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld φωτό"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -220,6 +274,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld images"
+                }
+              }
+            }
+          }
+        },
+        "hi" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld पिक"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld पिक्स"
                 }
               }
             }
@@ -301,6 +373,12 @@
     },
     "Account" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λογαριασμός"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -323,6 +401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compte"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अकाउंट"
           }
         },
         "th" : {
@@ -354,6 +438,12 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λειτουργία Airplay"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,6 +466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay फीचर"
           }
         },
         "th" : {
@@ -406,6 +502,24 @@
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ενημερώσεις CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ενημερώσεις CarPlay"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "device" : {
@@ -473,6 +587,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "hi" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay अपडेट्स"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay अपडेट्स"
                 }
               }
             }
@@ -554,6 +686,12 @@
     },
     "Centralized string management" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κεντρική διαχείριση string"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -576,6 +714,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestion centralisée des chaînes de caractères"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सेंट्रलाइज़्ड स्ट्रिंग मैनेजमेंट"
           }
         },
         "th" : {
@@ -607,6 +751,12 @@
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κανάλια στη Βιβλιοθήκη"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,6 +779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chaînes dans la bibliothèque"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लाइब्रेरी में चैनल्स"
           }
         },
         "th" : {
@@ -659,6 +815,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -678,6 +840,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "hi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -712,6 +880,12 @@
     },
     "Dark Mode" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκούρη λειτουργία"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -734,6 +908,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mode sombre"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "डार्क मोड"
           }
         },
         "th" : {
@@ -764,6 +944,12 @@
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βρες εύκολα τα shows που ακολουθείς και πολλά άλλα από τα κανάλια σου."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,6 +972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपने फॉलो किए गए शोज़ और चैनल्स को आसानी से एक्सेस करो।"
           }
         },
         "th" : {
@@ -816,6 +1008,12 @@
     },
     "Easy localization" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εύκολη μετάφραση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -838,6 +1036,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localisation facile"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लो, लोकलाइज़ेशन कितना आसान है!"
           }
         },
         "th" : {
@@ -868,6 +1072,12 @@
     },
     "Email" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +1100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ईमेल"
           }
         },
         "th" : {
@@ -921,6 +1137,12 @@
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ανακάλυψε τη δύναμη του localization και πολλά ακόμα!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -943,6 +1165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लोकलाइज़ेशन की ताकत को एक्सप्लोर करो और भी बहुत कुछ!"
           }
         },
         "th" : {
@@ -975,6 +1203,12 @@
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βοήθεια"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -997,6 +1231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "हेल्प"
           }
         },
         "th" : {
@@ -1029,6 +1269,12 @@
       "comment" : "Description of a feature that allows users to resume episodes and skip content.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βελτιωμένο Up Next"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1051,6 +1297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amélioration de la file d'attente"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अब Up Next और भी बेहतर है"
           }
         },
         "th" : {
@@ -1081,6 +1333,12 @@
     },
     "Learn More" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μάθε περισσότερα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1103,6 +1361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "और जानो"
           }
         },
         "th" : {
@@ -1133,6 +1397,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ειδοποιήσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,6 +1425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नोटिफिकेशन्स"
           }
         },
         "th" : {
@@ -1185,6 +1461,12 @@
     },
     "Password" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κωδικός πρόσβασης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1207,6 +1489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पासवर्ड"
           }
         },
         "th" : {
@@ -1237,6 +1525,12 @@
     },
     "Play your content on devices remotely." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Παίξε το περιεχόμενό σου σε άλλες συσκευές από απόσταση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1259,6 +1553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisez votre contenu sur des appareils à distance."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपना कंटेंट डिवाइसेज़ पर रिमोटली प्ले करो।"
           }
         },
         "th" : {
@@ -1289,6 +1589,12 @@
     },
     "Preferences" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προτιμήσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1311,6 +1617,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पसंदें"
           }
         },
         "th" : {
@@ -1341,6 +1653,12 @@
     },
     "Privacy" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απόρρητο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1363,6 +1681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confidentialité"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्राइवेसी"
           }
         },
         "th" : {
@@ -1393,6 +1717,12 @@
     },
     "Profile" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προφίλ"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1415,6 +1745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रोफाइल"
           }
         },
         "th" : {
@@ -1445,6 +1781,12 @@
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνέχισε εύκολα από εκεί που σταμάτησες ή βρες καινούργιες εκπομπές στην Αναζήτηση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1467,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जहाँ छोड़ा था वहीं से जल्दी से शुरू करो या Browse में नए शो ढूंढो।"
           }
         },
         "th" : {
@@ -1497,6 +1845,12 @@
     },
     "Rate App" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βαθμολόγησε την εφαρμογή"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1519,6 +1873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऐप को रेट करो"
           }
         },
         "th" : {
@@ -1549,6 +1909,12 @@
     },
     "Report a Problem" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αναφορά προβλήματος"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1571,6 +1937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signaler un problème"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "कोई दिक्कत है? रिपोर्ट करो"
           }
         },
         "th" : {
@@ -1601,6 +1973,12 @@
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνέχισε τα επεισόδια και αφαίρεσε όσα δεν θες να ακούσεις."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1623,6 +2001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एपिसोड्स फिर से शुरू करो और जो स्किप करना है, उसे हटा दो।"
           }
         },
         "th" : {
@@ -1653,6 +2037,12 @@
     },
     "Seamless Github integration" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Άψογη ενσωμάτωση με το Github"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1675,6 +2065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégration transparente avec Github"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github इंटीग्रेशन एकदम स्मूद है"
           }
         },
         "th" : {
@@ -1705,6 +2101,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1727,6 +2129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सेटिंग्स"
           }
         },
         "th" : {
@@ -1757,6 +2165,12 @@
     },
     "String Catalog Demo" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1779,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo du catalogue de chaînes de caractères"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
           }
         },
         "th" : {
@@ -1809,6 +2229,12 @@
     },
     "Support" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υποστήριξη"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,6 +2257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सपोर्ट"
           }
         },
         "th" : {
@@ -1861,6 +2293,12 @@
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα podcasts που αγοράζεις μέσω των Apple Podcasts Subscriptions συνδέονται με το Apple ID σου. Το σκορ αξιοπιστίας της συσκευής σου χρησιμοποιείται για αποφυγή απάτης. Τα δεδομένα για το τι ακούς και πώς αλληλεπιδράς με τα podcasts χρησιμοποιούνται για να βελτιώσουν και να προσωποποιήσουν την υπηρεσία, χωρίς να συνδέονται με το Apple ID σου. Δες πώς διαχειριζόμαστε τα δεδομένα σου..."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1883,6 +2321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts Subscriptions में खरीदे गए पॉडकास्ट्स आपके Apple ID से जुड़े होते हैं। आपके डिवाइस का ट्रस्ट स्कोर फ्रॉड रोकने के लिए यूज़ होता है। आपके पॉडकास्ट सुनने और इंटरैक्शन का डेटा सर्विस को बेहतर और पर्सनलाइज़ करने के लिए यूज़ होता है, और ये आपके Apple ID से लिंक नहीं होता। अपना डेटा कैसे मैनेज होता है, जानें..."
           }
         },
         "th" : {
@@ -1913,6 +2357,12 @@
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι νέο υπάρχει στα Orange Podcasts"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1935,6 +2385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts में नया क्या है"
           }
         },
         "th" : {
