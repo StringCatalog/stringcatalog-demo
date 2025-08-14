@@ -28,6 +28,12 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,6 +86,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הוסף פריטים לתמונות שלך. בדיקה."
           }
         },
         "th" : {
