@@ -76,6 +76,24 @@
             }
           }
         },
+        "nl" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld taal"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld talen"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -225,6 +243,24 @@
             }
           }
         },
+        "nl" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto's"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -325,6 +361,12 @@
             "value" : "Compte"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,6 +418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay-functie"
           }
         },
         "th" : {
@@ -473,6 +521,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "nl" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-updates"
                 }
               }
             }
@@ -578,6 +644,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gecentraliseerd stringbeheer"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +703,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanalen in bibliotheek"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -678,6 +756,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -736,6 +820,12 @@
             "value" : "Mode sombre"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donkere modus"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,6 +876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toegang tot gevolgde shows en meer vanuit je kanalen."
           }
         },
         "th" : {
@@ -840,6 +936,12 @@
             "value" : "Localisation facile"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eenvoudige lokalisatie"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -887,6 +989,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
@@ -945,6 +1053,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontdek de kracht van lokalisatie en meer!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -997,6 +1111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
           }
         },
         "th" : {
@@ -1053,6 +1173,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbeterde Up Next"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1103,6 +1229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer informatie"
           }
         },
         "th" : {
@@ -1157,6 +1289,12 @@
             "value" : "Notifications"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meldingen"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1207,6 +1345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord"
           }
         },
         "th" : {
@@ -1261,6 +1405,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speel je inhoud af op apparaten op afstand."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1311,6 +1461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voorkeuren"
           }
         },
         "th" : {
@@ -1365,6 +1521,12 @@
             "value" : "Confidentialité"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1415,6 +1577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiel"
           }
         },
         "th" : {
@@ -1469,6 +1637,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ga snel verder waar je was gebleven of vind nieuwe shows in Bladeren."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1519,6 +1693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App beoordelen"
           }
         },
         "th" : {
@@ -1573,6 +1753,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Probleem melden"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1623,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hervat afleveringen en verwijder degene die je wilt overslaan."
           }
         },
         "th" : {
@@ -1677,6 +1869,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naadloze Github-integratie"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1727,6 +1925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
           }
         },
         "th" : {
@@ -1781,6 +1985,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,6 +2041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondersteuning"
           }
         },
         "th" : {
@@ -1885,6 +2101,12 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De podcasts die je koopt via Apple Podcasts-abonnementen zijn gekoppeld aan je Apple ID. Je apparaatvertrouwensscore wordt gebruikt om fraude te voorkomen. Gegevens over je podcastluistergedrag en interacties worden ook gebruikt om de service te verbeteren en te personaliseren, en zijn niet gekoppeld aan je Apple ID. Bekijk hoe je gegevens worden beheerd..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1935,6 +2157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat is nieuw in Orange Podcasts"
           }
         },
         "th" : {
