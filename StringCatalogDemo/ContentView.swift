@@ -26,6 +26,12 @@ struct ContentView: View {
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     
+                    Text("Hello ")
+                      .foregroundStyle(.blue)
+                    +
+                    Text("World")
+                      .foregroundStyle(.red)
+                    
                     Text("""
                          Explore the power of localization and more!
                          """, comment: "secondary title")
