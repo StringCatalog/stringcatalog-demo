@@ -28,7 +28,25 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -82,10 +100,28 @@
             "value" : "Ajouter des éléments à vos photos"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진에 항목을 추가하세요. 테스트 중입니다."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg till objekt i dina foton. Testning."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm mục vào ảnh của bạn. Đang kiểm tra."
           }
         },
         "zh-Hans" : {
