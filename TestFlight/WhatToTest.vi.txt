@@ -1,0 +1,3 @@
+thêm trường hợp kiểm thử
+thêm shouldTranslate
+sửa chuỗi
