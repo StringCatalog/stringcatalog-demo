@@ -1,0 +1,3 @@
+lägg till testfall
+lägg till shouldTranslate
+åtgärda strängar
