@@ -1,1 +1,3 @@
-Will this one work?
+add test case
+add shouldTranslate
+fix strings
