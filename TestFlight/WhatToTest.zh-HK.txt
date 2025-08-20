@@ -1,0 +1,3 @@
+新增測試案例
+新增 shouldTranslate
+修正字串
