@@ -1,3 +1,6 @@
-ajouter un cas de test
-ajouter shouldTranslate
-corriger les chaînes
+La mise à jour 2.0 est disponible !
+
+Nous avons ajouté les fonctionnalités suivantes :
+- nouvelles localisations
+- nouvelles polices
+- icône de l'application mise à jour
