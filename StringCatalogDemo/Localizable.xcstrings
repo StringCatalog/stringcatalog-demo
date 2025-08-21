@@ -76,6 +76,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -225,6 +243,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -325,6 +361,12 @@
             "value" : "Compte"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウント"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -376,6 +418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay機能"
           }
         },
         "th" : {
@@ -473,6 +521,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
                 }
               }
             }
@@ -578,6 +644,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "集中型の文字列管理"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +703,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリ内のチャンネル"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -678,6 +756,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -736,6 +820,12 @@
             "value" : "Mode sombre"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークモード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -786,6 +876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォロー中の番組やチャンネルから簡単にアクセスできます。"
           }
         },
         "th" : {
@@ -840,6 +936,12 @@
             "value" : "Localisation facile"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡単なローカライズ"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -890,6 +992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
           }
         },
         "th" : {
@@ -945,6 +1053,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカリゼーションの力を体験しましょう。さらに多くの機能も！"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -995,6 +1109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんにちは "
           }
         },
         "th" : {
@@ -1051,6 +1171,12 @@
             "value" : "Aide"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1105,6 +1231,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「次はこちら」機能の改善"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,6 +1287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細はこちら"
           }
         },
         "th" : {
@@ -1209,6 +1347,12 @@
             "value" : "Notifications"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1259,6 +1403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
           }
         },
         "th" : {
@@ -1313,6 +1463,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツをリモートでデバイスに再生できます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1363,6 +1519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "th" : {
@@ -1417,6 +1579,12 @@
             "value" : "Confidentialité"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシー"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1467,6 +1635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロフィール"
           }
         },
         "th" : {
@@ -1521,6 +1695,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中断した場所からすぐに再開したり、「ブラウズ」で新しい番組を見つけたりできます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1571,6 +1751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを評価"
           }
         },
         "th" : {
@@ -1625,6 +1811,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題を報告"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1675,6 +1867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エピソードを再開したり、スキップしたいものを削除したりできます。"
           }
         },
         "th" : {
@@ -1729,6 +1927,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シームレスなGithub統合"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1779,6 +1983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "th" : {
@@ -1833,6 +2043,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1883,6 +2099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
           }
         },
         "th" : {
@@ -1937,6 +2159,12 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts サブスクリプションで購入したポッドキャストは、あなたのApple IDに関連付けられます。デバイスの信頼スコアは不正防止のために使用されます。ポッドキャストの視聴や操作に関するデータも、サービスの改善やパーソナライズのために利用されますが、Apple IDには関連付けられません。データの管理方法について詳しくはこちら..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1989,6 +2217,12 @@
             "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcastsの新機能"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2039,6 +2273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワールド"
           }
         },
         "th" : {

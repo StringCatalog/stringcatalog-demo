@@ -28,6 +28,12 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,6 +86,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "写真にアイテムを追加します。テスト中です。"
           }
         },
         "th" : {
