@@ -1,6 +1,4 @@
-Update 2.0 is out!
+Update 4.0 is live!
 
-We've added the following features:
-- new localizations
-- new fonts
-- updated app icon
+What’s new:
+dark mode support, faster startup time and improved offline access
