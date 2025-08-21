@@ -1,0 +1,3 @@
+agregar caso de prueba
+agregar shouldTranslate
+corregir cadenas
