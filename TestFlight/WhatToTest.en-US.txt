@@ -1,4 +1,3 @@
-Update 4.0 is live!
+Update 5.0 is live!
 
-What’s new:
-dark mode support, faster startup time and improved offline access
+Bug fixes
