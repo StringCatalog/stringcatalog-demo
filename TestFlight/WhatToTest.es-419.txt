@@ -1,3 +1,6 @@
-agregar caso de prueba
-agregar shouldTranslate
-corregir cadenas
+¡La actualización 2.0 ya está disponible!
+
+Hemos agregado las siguientes funciones:
+- nuevas localizaciones
+- nuevas fuentes
+- icono de la app actualizado
