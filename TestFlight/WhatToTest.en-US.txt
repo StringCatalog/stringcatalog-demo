@@ -1,3 +1,6 @@
-add test case
-add shouldTranslate
-fix strings
+Update 2.0 is out!
+
+We've added the following features:
+- new localizations
+- new fonts
+- updated app icon
