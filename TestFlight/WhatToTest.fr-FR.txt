@@ -1,6 +1,4 @@
-La mise à jour 2.0 est disponible !
+La mise à jour 4.0 est disponible !
 
-Nous avons ajouté les fonctionnalités suivantes :
-- nouvelles localisations
-- nouvelles polices
-- icône de l'application mise à jour
+Nouveautés :
+prise en charge du mode sombre, démarrage plus rapide et accès hors ligne amélioré
