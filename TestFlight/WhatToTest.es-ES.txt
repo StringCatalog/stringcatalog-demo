@@ -1,4 +1,3 @@
-¡La actualización 4.0 ya está disponible!
+¡La actualización 5.0 ya está disponible!
 
-Novedades:
-soporte para modo oscuro, inicio más rápido y mejor acceso sin conexión
+Corrección de errores
