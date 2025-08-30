@@ -94,6 +94,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -261,6 +279,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -367,6 +403,12 @@
             "value" : "Compte"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウント"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -417,13 +459,19 @@
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Airplay Feature"
+            "value" : "Tampok na Airplay"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay機能"
           }
         },
         "th" : {
@@ -544,6 +592,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "device" : {
@@ -650,6 +716,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "集中管理された文字列管理"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -709,6 +781,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリ内のチャンネル"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -762,6 +840,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -826,6 +910,12 @@
             "value" : "Mode sombre"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークモード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -863,49 +953,55 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+            "value" : "Accede fácilmente a los programas de followed y más desde los canales de your."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+            "value" : "Accede fácilmente a los programas de followed y más desde los canales de your."
           }
         },
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Madaling ma-access ang mga sinusundan mong palabas at iba pa mula sa iyong mga channel."
+            "value" : "Madaling ma-access ang mga sinusubaybayang palabas at iba pa mula sa your mga channel."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+            "value" : "Accédez facilement aux émissions de followed et à bien plus depuis les chaînes your."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "followedの番組や、yourのチャンネルからさらに多くのコンテンツに簡単にアクセスできます。"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เข้าถึงรายการที่ติดตามและอื่น ๆ ได้อย่างง่ายดายจากช่องของคุณ"
+            "value" : "เข้าถึงfollowedรายการโชว์และอื่น ๆ ได้อย่างง่ายดายจากช่องyour."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "轻松访问你关注的节目以及更多来自你的频道。"
+            "value" : "可轻松访问来自your频道的followed节目及更多内容。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從您的頻道輕鬆訪問已關注的節目及更多內容。"
+            "value" : "輕鬆從your頻道存取followed節目及更多內容。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輕鬆訪問您所關注的節目及更多來自您的頻道。"
+            "value" : "輕鬆從your頻道存取followed節目及更多內容。"
           }
         }
       }
@@ -940,6 +1036,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localisation facile"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡単なローカライズ"
           }
         },
         "th" : {
@@ -998,6 +1100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
           }
         },
         "th" : {
@@ -1059,6 +1167,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカリゼーションの力を体験しましょう。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1115,6 +1229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんにちは "
           }
         },
         "th" : {
@@ -1177,6 +1297,12 @@
             "value" : "Aide"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1237,6 +1363,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「次はこちら」機能の改善"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1293,6 +1425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細はこちら"
           }
         },
         "th" : {
@@ -1353,6 +1491,12 @@
             "value" : "Notifications"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1411,6 +1555,12 @@
             "value" : "Mot de passe"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1448,49 +1598,55 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduce tu contenido en dispositivos de forma remota."
+            "value" : "Reproduce el contenido de your en dispositivos de forma remota."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduce tu contenido en dispositivos de forma remota."
+            "value" : "Reproduce contenido de your en dispositivos de forma remota."
           }
         },
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "I-play ang iyong nilalaman sa mga device nang remote."
+            "value" : "I-play ang your nilalaman sa mga device nang remote."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisez votre contenu sur des appareils à distance."
+            "value" : "Lisez le contenu de your sur des appareils à distance."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "yourのコンテンツをデバイスでリモート再生します。"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เล่นเนื้อหาของคุณจากระยะไกลบนอุปกรณ์ต่าง ๆ"
+            "value" : "เล่นเนื้อหาyourบนอุปกรณ์จากระยะไกล."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在设备上远程播放您的内容。"
+            "value" : "可在设备上远程播放your内容。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在遠程設備上播放您的內容。"
+            "value" : "可遠端在裝置上播放your內容。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "透過設備遙控播放你的內容。"
+            "value" : "可遙距在裝置上播放your內容。"
           }
         }
       }
@@ -1525,6 +1681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "th" : {
@@ -1585,6 +1747,12 @@
             "value" : "Confidentialité"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシー"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1641,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロフィール"
           }
         },
         "th" : {
@@ -1701,6 +1875,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中断したところからすぐに再開したり、ブラウズで新しい番組を見つけたりできます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1757,6 +1937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを評価"
           }
         },
         "th" : {
@@ -1817,6 +2003,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題を報告"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1866,13 +2058,19 @@
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ipagpatuloy ang mga episode at alisin ang anumang gusto mong laktawan."
+            "value" : "Ipagpatuloy ang mga episode at alisin ang anumang nais mong laktawan."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エピソードを再開したり、スキップしたいものを削除したりできます。"
           }
         },
         "th" : {
@@ -1933,6 +2131,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シームレスなGithub統合"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1989,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
           }
         },
         "th" : {
@@ -2049,6 +2259,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2107,6 +2323,12 @@
             "value" : "Support"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2144,49 +2366,55 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
+            "value" : "Los pódcast que compras en las Suscripciones de Apple Podcasts están asociados con el Apple ID de your. La puntuación de confianza de tu dispositivo se utiliza para prevenir fraudes. Los datos sobre la escucha e interacciones de pódcast de your también se usan para mejorar y personalizar el servicio y no están asociados con el Apple ID de your. Consulta cómo se gestionan los datos de your..."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los podcasts que compras en Suscripciones de Apple Podcasts están asociados con tu ID de Apple. Tu puntaje de confianza del dispositivo se utiliza para prevenir el fraude. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu ID de Apple. Consulta cómo se gestionan tus datos..."
+            "value" : "Los pódcasts que compras en Suscripciones de Apple Podcasts están asociados con el Apple ID de your. La puntuación de confianza de tu dispositivo se utiliza para prevenir fraudes. Los datos sobre la escucha e interacciones de pódcasts de your también se usan para mejorar y personalizar el servicio y no están asociados con el Apple ID de your. Consulta cómo se gestionan los datos de your..."
           }
         },
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ang mga podcast na binili mo sa Apple Podcasts Subscriptions ay naka-link sa iyong Apple ID. Ginagamit ang trust score ng iyong device upang maiwasan ang panlilinlang. Ang data tungkol sa iyong pakikinig at interaksyon sa podcast ay ginagamit din upang mapabuti at maiangkop ang serbisyo at hindi ito konektado sa iyong Apple ID. Tingnan kung paano pinamamahalaan ang iyong data..."
+            "value" : "Ang mga podcast na binili mo sa Apple Podcasts Subscriptions ay naka-link sa your Apple ID. Ginagamit ang trust score ng iyong device upang maiwasan ang panlilinlang. Ang data sa your pakikinig at interaksyon sa podcast ay ginagamit din upang mapabuti at ma-personalize ang serbisyo at hindi naka-link sa your Apple ID. Tingnan kung paano pinamamahalaan ang your data..."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+            "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à l’identifiant Apple your. Le score de confiance de votre appareil est utilisé pour prévenir la fraude. Les données sur l’écoute et les interactions de podcast de your sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à l’identifiant Apple your. Découvrez comment les données de your sont gérées..."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts サブスクリプションで購入したポッドキャストは、yourのApple IDに関連付けられます。デバイスの信頼スコアは不正防止のために使用されます。yourのポッドキャストの視聴や操作に関するデータも、サービスの改善やパーソナライズのために使用され、yourのApple IDには関連付けられません。yourのデータ管理方法をご覧ください..."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พ็อดคาสท์ที่คุณซื้อตั้งอยู่ใน Apple Podcasts Subscriptions จะเชื่อมโยงกับ Apple ID ของคุณ คะแนนความไว้วางใจของอุปกรณ์คุณใช้เพื่อป้องกันการฉ้อโกง ข้อมูลเกี่ยวกับการฟังพ็อดคาสท์และการโต้ตอบของคุณยังถูกใช้เพื่อปรับปรุงและปรersonalizethe บริการและไม่เชื่อมโยงกับ Apple ID ของคุณ ดูว่าข้อมูลของคุณถูกจัดการอย่างไร..."
+            "value" : "พอดแคสต์ที่คุณซื้อใน Apple Podcasts Subscriptions จะเชื่อมโยงกับ Apple ID your คะแนนความน่าเชื่อถือของอุปกรณ์ของคุณจะถูกใช้เพื่อป้องกันการฉ้อโกง ข้อมูลเกี่ยวกับการฟังและการโต้ตอบกับพอดแคสต์yourจะถูกใช้เพื่อปรับปรุงและปรับแต่งบริการ และจะไม่เชื่อมโยงกับ Apple ID your ดูวิธีการจัดการข้อมูลyour..."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您在 Apple Podcasts 订阅中购买的播客与您的 Apple ID 关联。您的设备信任评分用于防止欺诈。您在播客收听和互动中的数据也用于改善和个性化服务，并且与您的 Apple ID 无关。查看您的数据如何管理..."
+            "value" : "您在 Apple Podcasts 订阅中购买的播客与your Apple ID 相关联。您的设备信任分数用于防止欺诈。关于your播客收听和互动的数据也用于改进和个性化服务，并不会与your Apple ID 关联。了解your数据的管理方式..."
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您在 Apple Podcasts 訂閱中購買的播客與您的 Apple ID 相關聯。您的設備信任分數用於防止欺詐。您的播客收聽和互動數據也用於改善和個性化服務，並不與您的 Apple ID 相關聯。查看您的數據管理方式..."
+            "value" : "您在 Apple Podcasts 訂閱中購買的播客會與your Apple ID 相關聯。您的裝置信任分數用於防止詐騙。關於your播客收聽和互動的資料也會用於改進和個人化服務，且不會與your Apple ID 相關聯。請參閱如何管理your資料..."
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你在 Apple Podcasts 訂閱中購買的播客會與你的 Apple ID 聯繫。你的設備信任分數用於防止欺詐。你的播客收聽數據和互動也會被用來改善和個性化服務，並不與你的 Apple ID 聯繫。查看你的數據如何被管理…"
+            "value" : "你在 Apple Podcasts 訂閱中購買的播客會與your Apple ID 相關聯。你的裝置信任分數用於防止詐騙。your播客收聽和互動的數據亦會用於改善及個人化服務，並不會與your Apple ID 相關聯。了解your數據的管理方式..."
           }
         }
       }
@@ -2221,6 +2449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcastsの新機能"
           }
         },
         "th" : {
@@ -2279,6 +2513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワールド"
           }
         },
         "th" : {
