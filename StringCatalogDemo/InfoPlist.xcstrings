@@ -34,6 +34,18 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73,49 +85,61 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añade elementos a tus fotos. Prueba."
+            "value" : "Agrega elementos a las fotos de your. Prueba."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar elementos a tus fotos"
+            "value" : "Agrega elementos a las fotos de your. Prueba."
           }
         },
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magdagdag ng mga item sa iyong mga larawan. Pagsusuri."
+            "value" : "Magdagdag ng mga item sa your mga larawan. Pagsusuri."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter des éléments à vos photos"
+            "value" : "Ajoutez des éléments aux photos de your. Test en cours."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "yourの写真にアイテムを追加します。テスト中です。"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg items toe aan your foto’s. Testen."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
+            "value" : "เพิ่มรายการไปยังyourรูปภาพ กำลังทดสอบ."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将项目添加到您的照片中。测试。"
+            "value" : "将项目添加到your照片。测试中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將項目添加到您的照片。測試中。"
+            "value" : "將項目新增至your照片。測試中。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將項目添加到您的照片。測試中。"
+            "value" : "將項目加入your相片。測試中。"
           }
         }
       }
