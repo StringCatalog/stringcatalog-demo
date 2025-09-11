@@ -34,6 +34,12 @@
             "value" : "StringCatalogDemo"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +98,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi elementi alle tue foto. Test in corso."
           }
         },
         "th" : {

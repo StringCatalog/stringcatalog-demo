@@ -94,6 +94,24 @@
             }
           }
         },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld lingua"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld lingue"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -261,6 +279,24 @@
             }
           }
         },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -367,6 +403,12 @@
             "value" : "Compte"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -424,6 +466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funzionalità Airplay"
           }
         },
         "th" : {
@@ -544,6 +592,24 @@
             }
           }
         },
+        "it" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiornamenti CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiornamenti CarPlay"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "device" : {
@@ -650,6 +716,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestione centralizzata delle stringhe"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -709,6 +781,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canali in libreria"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -762,6 +840,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -826,6 +910,12 @@
             "value" : "Mode sombre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modalità scura"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -882,6 +972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accedi facilmente ai programmi seguiti e ad altri contenuti dai tuoi canali."
           }
         },
         "th" : {
@@ -942,6 +1038,12 @@
             "value" : "Localisation facile"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localizzazione semplice"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -998,6 +1100,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
           }
         },
         "th" : {
@@ -1059,6 +1167,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri la potenza della localizzazione e molto altro!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1115,6 +1229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciao "
           }
         },
         "th" : {
@@ -1177,6 +1297,12 @@
             "value" : "Aide"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aiuto"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1237,6 +1363,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miglioramento della funzione \"Prossimi\""
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1293,6 +1425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri di più"
           }
         },
         "th" : {
@@ -1353,6 +1491,12 @@
             "value" : "Notifications"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifiche"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1409,6 +1553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
           }
         },
         "th" : {
@@ -1469,6 +1619,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riproduci i tuoi contenuti su dispositivi da remoto."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1525,6 +1681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferenze"
           }
         },
         "th" : {
@@ -1585,6 +1747,12 @@
             "value" : "Confidentialité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1641,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profilo"
           }
         },
         "th" : {
@@ -1701,6 +1875,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riprendi rapidamente da dove avevi interrotto o trova nuovi programmi nella sezione Sfoglia."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1757,6 +1937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valuta l'app"
           }
         },
         "th" : {
@@ -1817,6 +2003,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segnala un problema"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1873,6 +2065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riprendi gli episodi e rimuovi quelli che vuoi saltare."
           }
         },
         "th" : {
@@ -1933,6 +2131,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrazione Github senza interruzioni"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1989,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni"
           }
         },
         "th" : {
@@ -2049,6 +2259,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2105,6 +2321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supporto"
           }
         },
         "th" : {
@@ -2165,6 +2387,12 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I podcast che acquisti tramite Apple Podcasts Subscriptions sono associati al tuo ID Apple. Il punteggio di affidabilità del tuo dispositivo viene utilizzato per prevenire frodi. I dati relativi all'ascolto dei podcast e alle tue interazioni vengono utilizzati anche per migliorare e personalizzare il servizio e non sono associati al tuo ID Apple. Scopri come vengono gestiti i tuoi dati..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2223,6 +2451,12 @@
             "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novità in Orange Podcasts"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2279,6 +2513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mondo"
           }
         },
         "th" : {
