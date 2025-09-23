@@ -4,7 +4,25 @@
     "CFBundleName" : {
       "comment" : "Bundle name",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -64,7 +82,25 @@
     "NSPhotoLibraryAddUsageDescription" : {
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προσθέστε στοιχεία στις φωτογραφίες σας. Δοκιμή."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add items to your photos. Testing."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add items to your photos. Testing."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add items to your photos. Testing."

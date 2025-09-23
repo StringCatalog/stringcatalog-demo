@@ -4,6 +4,24 @@
     "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld γλώσσα"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld γλώσσες"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -16,6 +34,42 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
+                  "value" : "%lld languages"
+                }
+              }
+            }
+          }
+        },
+        "en-GB" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld language"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld languages"
+                }
+              }
+            }
+          }
+        },
+        "en-IN" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld language"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
                   "value" : "%lld languages"
                 }
               }
@@ -171,6 +225,24 @@
     "%lld pics" : {
       "comment" : "plural title 2",
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld φωτογραφία"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld φωτογραφίες"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -183,6 +255,42 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
+                  "value" : "%lld pics"
+                }
+              }
+            }
+          }
+        },
+        "en-GB" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld pic"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld pics"
+                }
+              }
+            }
+          }
+        },
+        "en-IN" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld pic"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
                   "value" : "%lld pics"
                 }
               }
@@ -337,7 +445,25 @@
     },
     "Account" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λογαριασμός"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Account"
@@ -396,7 +522,25 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Λειτουργία AirPlay"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay Feature"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Airplay Feature"
@@ -454,6 +598,24 @@
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "el" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ενημερώσεις CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ενημερώσεις CarPlay"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "device" : {
@@ -466,6 +628,42 @@
               "other" : {
                 "stringUnit" : {
                   "state" : "new",
+                  "value" : "CarPlay Updates"
+                }
+              }
+            }
+          }
+        },
+        "en-GB" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay Updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay Updates"
+                }
+              }
+            }
+          }
+        },
+        "en-IN" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay Updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
                   "value" : "CarPlay Updates"
                 }
               }
@@ -620,7 +818,25 @@
     },
     "Centralized string management" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κεντρική διαχείριση συμβολοσειρών"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralized string management"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centralised string management"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Centralized string management"
@@ -679,7 +895,25 @@
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κανάλια στη Βιβλιοθήκη"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Channels in Library"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Channels in Library"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Channels in Library"
@@ -737,7 +971,25 @@
     },
     "Continue" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -796,7 +1048,25 @@
     },
     "Dark Mode" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Σκοτεινή λειτουργία"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Mode"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Mode"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dark Mode"
@@ -854,7 +1124,25 @@
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αποκτήστε εύκολη πρόσβαση στις εκπομπές που ακολουθείτε και σε άλλα από τα κανάλια σας."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easily access followed shows and more from your channels."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Easily access followed shows and more from your channels."
@@ -912,7 +1200,25 @@
     },
     "Easy localization" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εύκολη τοπικοποίηση"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localization"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Easy localisation"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Easy localization"
@@ -970,7 +1276,25 @@
     },
     "Email" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Email"
@@ -1029,7 +1353,25 @@
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Εξερευνήστε τη δύναμη της τοπικοποίησης και πολλά ακόμη!"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localization and more!"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore the power of localisation and more!"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Explore the power of localization and more!"
@@ -1087,7 +1429,25 @@
     },
     "Hello " : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Γεια "
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello "
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello "
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hello "
@@ -1147,7 +1507,25 @@
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βοήθεια"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Help"
@@ -1207,7 +1585,25 @@
       "comment" : "Description of a feature that allows users to resume episodes and skip content.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βελτιωμένο «Επόμενα»"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Improved Up Next"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Improved Up Next"
@@ -1265,7 +1661,25 @@
     },
     "Learn More" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Μάθετε περισσότερα"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Learn More"
@@ -1323,7 +1737,25 @@
     },
     "Notifications" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ειδοποιήσεις"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
@@ -1381,7 +1813,25 @@
     },
     "Password" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κωδικός πρόσβασης"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Password"
@@ -1439,7 +1889,25 @@
     },
     "Play your content on devices remotely." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αναπαραγάγετε το περιεχόμενό σας σε απομακρυσμένες συσκευές."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Play your content on devices remotely."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Play your content on devices remotely."
@@ -1497,7 +1965,25 @@
     },
     "Preferences" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προτιμήσεις"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preferences"
@@ -1555,7 +2041,25 @@
     },
     "Privacy" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απόρρητο"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Privacy"
@@ -1613,7 +2117,25 @@
     },
     "Profile" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Προφίλ"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profile"
@@ -1671,7 +2193,25 @@
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνεχίστε γρήγορα από εκεί που μείνατε ή βρείτε νέες εκπομπές στην ενότητα «Περιήγηση»."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quickly pick up where you left off or find new shows in Browse."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quickly pick up where you left off or find new shows in Browse."
@@ -1729,7 +2269,25 @@
     },
     "Rate App" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Βαθμολογήστε την εφαρμογή"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate App"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate App"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rate App"
@@ -1787,7 +2345,25 @@
     },
     "Report a Problem" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Αναφορά προβλήματος"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report a Problem"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report a Problem"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Report a Problem"
@@ -1845,7 +2421,25 @@
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Συνεχίστε τα επεισόδια και αφαιρέστε όσα θέλετε να παραλείψετε."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume episodes and remove any you want to skip."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resume episodes and remove any you want to skip."
@@ -1903,7 +2497,25 @@
     },
     "Seamless Github integration" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Απρόσκοπτη ενσωμάτωση GitHub"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless Github integration"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seamless Github integration"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seamless Github integration"
@@ -1961,7 +2573,25 @@
     },
     "Settings" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ρυθμίσεις"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings"
@@ -2019,7 +2649,25 @@
     },
     "String Catalog Demo" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "String Catalog Demo"
@@ -2077,7 +2725,25 @@
     },
     "Support" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Υποστήριξη"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
@@ -2135,7 +2801,25 @@
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τα podcast που αγοράζετε στις Apple Podcasts Subscriptions συνδέονται με το Apple ID σας. Η βαθμολογία αξιοπιστίας της συσκευής σας χρησιμοποιείται για την αποτροπή απάτης. Τα δεδομένα σχετικά με την ακρόαση podcast και τις αλληλεπιδράσεις σας χρησιμοποιούνται επίσης για τη βελτίωση και την εξατομίκευση της υπηρεσίας και δεν συνδέονται με το Apple ID σας. Δείτε πώς γίνεται η διαχείριση των δεδομένων σας..."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalise the service and is not associated with your Apple ID. See how your data is managed..."
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..."
@@ -2193,7 +2877,25 @@
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Τι νέο υπάρχει στο Orange Podcasts"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What's New in Orange Podcasts"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "What's New in Orange Podcasts"
@@ -2251,7 +2953,25 @@
     },
     "World" : {
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Κόσμος"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "World"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "World"
+          }
+        },
+        "en-IN" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "World"
