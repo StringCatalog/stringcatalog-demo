@@ -15,7 +15,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld languages"
                 }
               }
@@ -182,7 +182,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld pics"
                 }
               }
@@ -405,7 +405,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Función de Airplay"
+            "value" : "Función de AirPlay"
           }
         },
         "es-419" : {
@@ -465,7 +465,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "CarPlay Updates"
                 }
               }
@@ -688,7 +688,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canales en Biblioteca"
+            "value" : "Canales en la biblioteca"
           }
         },
         "es-419" : {
@@ -746,7 +746,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar"
+            "value" : "Continue"
           }
         },
         "es-419" : {
@@ -805,7 +805,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modo Oscuro"
+            "value" : "Modo oscuro"
           }
         },
         "es-419" : {
@@ -863,7 +863,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+            "value" : "Accede fácilmente a los programas que sigues y a más contenido desde tus canales."
           }
         },
         "es-419" : {
@@ -1038,7 +1038,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
+            "value" : "¡Explora el poder de la localización y mucho más!"
           }
         },
         "es-419" : {
@@ -1216,7 +1216,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mejorado Up Next"
+            "value" : "A continuación mejorado"
           }
         },
         "es-419" : {
@@ -1274,7 +1274,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprender más"
+            "value" : "Más información"
           }
         },
         "es-419" : {
@@ -1680,7 +1680,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
+            "value" : "Retoma rápidamente donde lo dejaste o descubre programas nuevos en Explorar."
           }
         },
         "es-419" : {
@@ -1738,7 +1738,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificar App"
+            "value" : "Valorar la app"
           }
         },
         "es-419" : {
@@ -1796,7 +1796,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar un problema"
+            "value" : "Informar de un problema"
           }
         },
         "es-419" : {
@@ -1854,7 +1854,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
+            "value" : "Reanuda episodios y elimina los que quieras omitir."
           }
         },
         "es-419" : {
@@ -1912,7 +1912,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Integración fluida con Github"
+            "value" : "Integración fluida con GitHub"
           }
         },
         "es-419" : {
@@ -1970,7 +1970,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configuraciones"
+            "value" : "Configuración"
           }
         },
         "es-419" : {
@@ -2028,7 +2028,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "String Catalog Demo"
+            "value" : "Demostración del catálogo de cadenas"
           }
         },
         "es-419" : {
@@ -2144,7 +2144,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
+            "value" : "Los pódcasts que compras en Apple Podcasts Subscriptions están asociados a tu Apple ID. La puntuación de confianza de tu dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha e interacciones con pódcasts también se usan para mejorar y personalizar el servicio y no se asocian a tu Apple ID. Consulta cómo se gestiona tu información..."
           }
         },
         "es-419" : {
@@ -2202,7 +2202,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novedades en Orange Podcasts"
+            "value" : "Novedades de Orange Podcasts"
           }
         },
         "es-419" : {
