@@ -4,6 +4,24 @@
     "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Sprache"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Sprachen"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -94,6 +112,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 言語"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -171,6 +207,24 @@
     "%lld pics" : {
       "comment" : "plural title 2",
       "localizations" : {
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Bild"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Bilder"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -261,6 +315,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 枚の写真"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -337,6 +409,12 @@
     },
     "Account" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konto"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -365,6 +443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compte"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アカウント"
           }
         },
         "th" : {
@@ -396,6 +480,12 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay-Funktion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -426,6 +516,12 @@
             "value" : "Fonction Airplay"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Airplay機能"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -454,6 +550,24 @@
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "de" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-Updates"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-Updates"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "device" : {
@@ -544,6 +658,24 @@
             }
           }
         },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlayのアップデート"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "device" : {
@@ -620,6 +752,12 @@
     },
     "Centralized string management" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zentrale Verwaltung von Zeichenketten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -648,6 +786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestion centralisée des chaînes de caractères"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "集中型の文字列管理"
           }
         },
         "th" : {
@@ -679,6 +823,12 @@
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanäle in der Mediathek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -709,6 +859,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリ内のチャンネル"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -737,6 +893,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -762,6 +924,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -796,6 +964,12 @@
     },
     "Dark Mode" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkler Modus"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -826,6 +1000,12 @@
             "value" : "Mode sombre"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークモード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -854,6 +1034,12 @@
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greifen Sie einfach auf gefolgte Sendungen und weitere Inhalte aus Ihren Kanälen zu."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -884,6 +1070,12 @@
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォロー中の番組やチャンネルから簡単にアクセスできます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -912,6 +1104,12 @@
     },
     "Easy localization" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfache Lokalisierung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -942,6 +1140,12 @@
             "value" : "Localisation facile"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡単なローカライズ"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -970,6 +1174,12 @@
     },
     "Email" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mail"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -998,6 +1208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
           }
         },
         "th" : {
@@ -1029,6 +1245,12 @@
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entdecken Sie die Möglichkeiten der Lokalisierung und mehr!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1059,6 +1281,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカリゼーションの力を体験しましょう。さらに多くの機能も！"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1087,6 +1315,12 @@
     },
     "Hello " : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1115,6 +1349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんにちは "
           }
         },
         "th" : {
@@ -1147,6 +1387,12 @@
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1175,6 +1421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
           }
         },
         "th" : {
@@ -1207,6 +1459,12 @@
       "comment" : "Description of a feature that allows users to resume episodes and skip content.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbesserte Nächste Wiedergabe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1237,6 +1495,12 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「次はこちら」機能の改善"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1265,6 +1529,12 @@
     },
     "Learn More" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr erfahren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1295,6 +1565,12 @@
             "value" : "En savoir plus"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細はこちら"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1323,6 +1599,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benachrichtigungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1353,6 +1635,12 @@
             "value" : "Notifications"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1381,6 +1669,12 @@
     },
     "Password" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1411,6 +1705,12 @@
             "value" : "Mot de passe"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1439,6 +1739,12 @@
     },
     "Play your content on devices remotely." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spielen Sie Ihre Inhalte auf Geräten aus der Ferne ab."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1469,6 +1775,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツをリモートでデバイスに再生できます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1497,6 +1809,12 @@
     },
     "Preferences" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1527,6 +1845,12 @@
             "value" : "Préférences"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1555,6 +1879,12 @@
     },
     "Privacy" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1585,6 +1915,12 @@
             "value" : "Confidentialité"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシー"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1613,6 +1949,12 @@
     },
     "Profile" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1643,6 +1985,12 @@
             "value" : "Profil"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロフィール"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1671,6 +2019,12 @@
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setzen Sie schnell dort fort, wo Sie aufgehört haben, oder finden Sie neue Sendungen im Bereich \"Stöbern\"."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1701,6 +2055,12 @@
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中断した場所からすぐに再開したり、「ブラウズ」で新しい番組を見つけたりできます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1729,6 +2089,12 @@
     },
     "Rate App" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App bewerten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1759,6 +2125,12 @@
             "value" : "Évaluer l'application"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを評価"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1787,6 +2159,12 @@
     },
     "Report a Problem" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Problem melden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1817,6 +2195,12 @@
             "value" : "Signaler un problème"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "問題を報告"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1845,6 +2229,12 @@
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setzen Sie Episoden fort und entfernen Sie alle, die Sie überspringen möchten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1875,6 +2265,12 @@
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エピソードを再開したり、スキップしたいものを削除したりできます。"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1903,6 +2299,12 @@
     },
     "Seamless Github integration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nahtlose Github-Integration"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1933,6 +2335,12 @@
             "value" : "Intégration transparente avec Github"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シームレスなGithub統合"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1961,6 +2369,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1991,6 +2405,12 @@
             "value" : "Paramètres"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2019,6 +2439,12 @@
     },
     "String Catalog Demo" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2049,6 +2475,12 @@
             "value" : "Démo du catalogue de chaînes de caractères"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2077,6 +2509,12 @@
     },
     "Support" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2107,6 +2545,12 @@
             "value" : "Support"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポート"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2135,6 +2579,12 @@
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Podcasts, die Sie über Apple Podcasts-Abonnements kaufen, sind mit Ihrer Apple-ID verknüpft. Ihr Gerätevertrauensscore wird verwendet, um Betrug zu verhindern. Daten zu Ihrem Podcast-Hörverhalten und Ihren Interaktionen werden ebenfalls genutzt, um den Service zu verbessern und zu personalisieren, und sind nicht mit Ihrer Apple-ID verknüpft. Erfahren Sie, wie Ihre Daten verwaltet werden..."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2165,6 +2615,12 @@
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts サブスクリプションで購入したポッドキャストは、あなたのApple IDに関連付けられます。デバイスの信頼スコアは不正防止のために使用されます。ポッドキャストの視聴や操作に関するデータも、サービスの改善やパーソナライズのために利用されますが、Apple IDには関連付けられません。データの管理方法について詳しくはこちら..."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2193,6 +2649,12 @@
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues in Orange Podcasts"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2223,6 +2685,12 @@
             "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcastsの新機能"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2251,6 +2719,12 @@
     },
     "World" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2279,6 +2753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ワールド"
           }
         },
         "th" : {
