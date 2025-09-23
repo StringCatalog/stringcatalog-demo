@@ -15,7 +15,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld languages"
                 }
               }
@@ -182,7 +182,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "%lld pics"
                 }
               }
@@ -195,13 +195,13 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld foto"
+                  "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\n%lld foto"
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld fotos"
+                  "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\n%lld fotos"
                 }
               }
             }
@@ -405,7 +405,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Función de Airplay"
+            "value" : "Función de AirPlay"
           }
         },
         "es-419" : {
@@ -465,7 +465,7 @@
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "new",
+                  "state" : "translated",
                   "value" : "CarPlay Updates"
                 }
               }
@@ -629,7 +629,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gestión centralizada de cadenas"
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nGestión centralizada de cadenas"
           }
         },
         "es-419" : {
@@ -688,7 +688,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canales en Biblioteca"
+            "value" : "Canales en la biblioteca"
           }
         },
         "es-419" : {
@@ -746,7 +746,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar"
+            "value" : "Continue"
           }
         },
         "es-419" : {
@@ -805,7 +805,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modo Oscuro"
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nModo oscuro"
           }
         },
         "es-419" : {
@@ -863,7 +863,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
+            "value" : "Accede fácilmente a los programas seguidos y más desde tus canales."
           }
         },
         "es-419" : {
@@ -1038,7 +1038,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Explora el poder de la localización y más!"
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nExplora el poder de la localización y mucho más."
           }
         },
         "es-419" : {
@@ -1216,7 +1216,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mejorado Up Next"
+            "value" : "Mejoras en Próximo"
           }
         },
         "es-419" : {
@@ -1274,7 +1274,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprender más"
+            "value" : "Más información"
           }
         },
         "es-419" : {
@@ -1390,7 +1390,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contraseña"
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nContraseña"
           }
         },
         "es-419" : {
@@ -1448,7 +1448,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduce tu contenido en dispositivos de forma remota."
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nReproduce tu contenido en dispositivos de forma remota."
           }
         },
         "es-419" : {
@@ -1622,7 +1622,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perfil"
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nPerfil"
           }
         },
         "es-419" : {
@@ -1680,7 +1680,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recoge rápidamente donde lo dejaste o encuentra nuevos programas en Navegar."
+            "value" : "Retoma rápidamente donde lo dejaste o encuentra nuevos programas en Explorar."
           }
         },
         "es-419" : {
@@ -1738,7 +1738,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificar App"
+            "value" : "Calificar la aplicación"
           }
         },
         "es-419" : {
@@ -1796,7 +1796,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar un problema"
+            "value" : "Informar de un problema"
           }
         },
         "es-419" : {
@@ -1854,7 +1854,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reanuda episodios y elimina cualquiera que quieras omitir."
+            "value" : "Reanuda episodios y elimina los que quieras omitir."
           }
         },
         "es-419" : {
@@ -1970,7 +1970,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configuraciones"
+            "value" : "Configuración"
           }
         },
         "es-419" : {
@@ -2144,7 +2144,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los podcasts que compras en las suscripciones de Apple Podcasts están asociados con tu Apple ID. Tu puntaje de confianza del dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu Apple ID. Consulta cómo se gestionan tus datos..."
+            "value" : "- Review context and tone requirements\n- Translate to the target language with neutral, clear phrasing\n- Preserve placeholders, format specifiers, emojis, URLs, and product/app names as required\n- Apply correct pluralization and regional conventions\n- Perform final QA for accuracy and formatting\n\nLos podcasts que compras en Suscripciones de Apple Podcasts están asociados a tu ID de Apple. La puntuación de confianza de tu dispositivo se utiliza para prevenir fraudes. Los datos sobre tu escucha de podcasts y tus interacciones también se utilizan para mejorar y personalizar el servicio y no se asocian a tu ID de Apple. Consulta cómo se gestionan tus datos..."
           }
         },
         "es-419" : {
