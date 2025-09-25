@@ -4,7 +4,25 @@
     "CFBundleName" : {
       "comment" : "Bundle name",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -28,13 +46,13 @@
             "value" : "StringCatalogDemo"
           }
         },
-        "fr" : {
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
           }
         },
-        "th" : {
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -64,7 +82,25 @@
     "NSPhotoLibraryAddUsageDescription" : {
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف عناصر إلى صورك. اختبار."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge deinen Fotos Elemente hinzu. Test."
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add items to your photos. Testing."
+          }
+        },
+        "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add items to your photos. Testing."
@@ -88,16 +124,16 @@
             "value" : "Magdagdag ng mga item sa iyong mga larawan. Pagsusuri."
           }
         },
-        "fr" : {
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter des éléments à vos photos"
+            "value" : "写真にアイテムを追加します。テストです。"
           }
         },
-        "th" : {
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
+            "value" : "사진에 항목을 추가합니다. 테스트 중입니다."
           }
         },
         "zh-Hans" : {
