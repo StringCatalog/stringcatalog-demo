@@ -58,24 +58,6 @@
             }
           }
         },
-        "fil" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld wika"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld mga wika"
-                }
-              }
-            }
-          }
-        },
         "fr" : {
           "variations" : {
             "plural" : {
@@ -89,6 +71,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld langues"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld개 언어"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld개 언어"
                 }
               }
             }
@@ -225,24 +225,6 @@
             }
           }
         },
-        "fil" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld larawan"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld mga larawan"
-                }
-              }
-            }
-          }
-        },
         "fr" : {
           "variations" : {
             "plural" : {
@@ -256,6 +238,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "%lld images"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld장 사진"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld장 사진"
                 }
               }
             }
@@ -355,16 +355,16 @@
             "value" : "Cuenta"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Account"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compte"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계정"
           }
         },
         "th" : {
@@ -414,16 +414,16 @@
             "value" : "Función Airplay"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Airplay Feature"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AirPlay 기능"
           }
         },
         "th" : {
@@ -508,24 +508,6 @@
             }
           }
         },
-        "fil" : {
-          "variations" : {
-            "device" : {
-              "ipod" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Mga Update sa CarPlay"
-                }
-              },
-              "other" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Mga Update sa CarPlay"
-                }
-              }
-            }
-          }
-        },
         "fr" : {
           "variations" : {
             "device" : {
@@ -539,6 +521,24 @@
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "Mises à jour CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay 업데이트"
                 }
               }
             }
@@ -638,16 +638,16 @@
             "value" : "Gestión centralizada de cadenas"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sentralisadong pamamahala ng string"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestion centralisée des chaînes de caractères"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중앙집중식 문자열 관리"
           }
         },
         "th" : {
@@ -697,16 +697,16 @@
             "value" : "Canales en la biblioteca"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mga Channel sa Aklatan"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chaînes dans la bibliothèque"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보관함의 채널"
           }
         },
         "th" : {
@@ -755,13 +755,13 @@
             "value" : "Continue"
           }
         },
-        "fil" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
           }
         },
-        "fr" : {
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -814,16 +814,16 @@
             "value" : "Modo oscuro"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dark Mode"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mode sombre"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다크 모드"
           }
         },
         "th" : {
@@ -872,16 +872,16 @@
             "value" : "Accede fácilmente a los programas que sigues y más desde tus canales."
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Madaling ma-access ang mga sinusundan mong palabas at iba pa mula sa iyong mga channel."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "채널에서 팔로우 중인 프로그램과 더 많은 콘텐츠에 쉽게 액세스할 수 있습니다."
           }
         },
         "th" : {
@@ -930,16 +930,16 @@
             "value" : "Localización fácil"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Madaling lokal na pagsasalin"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localisation facile"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "간편한 현지화"
           }
         },
         "th" : {
@@ -988,16 +988,16 @@
             "value" : "Correo electrónico"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Email"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일"
           }
         },
         "th" : {
@@ -1047,16 +1047,16 @@
             "value" : "¡Explora el poder de la localización y más!"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tuklasin ang kakayahan ng lokalizasyon at iba pa!"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현지화의 강력한 기능과 더 많은 것을 살펴보세요!"
           }
         },
         "th" : {
@@ -1105,16 +1105,16 @@
             "value" : "Hola "
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kamusta "
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안녕하세요 "
           }
         },
         "th" : {
@@ -1165,16 +1165,16 @@
             "value" : "Ayuda"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tulong"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aide"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
           }
         },
         "th" : {
@@ -1225,16 +1225,16 @@
             "value" : "Mejoras en Up Next"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pinahusay na Up Next"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amélioration de la file d'attente"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개선된 다음 보기"
           }
         },
         "th" : {
@@ -1283,16 +1283,16 @@
             "value" : "Más información"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Matuto Pa"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자세히 알아보기"
           }
         },
         "th" : {
@@ -1341,16 +1341,16 @@
             "value" : "Notificaciones"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mga Abiso"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
           }
         },
         "th" : {
@@ -1399,16 +1399,16 @@
             "value" : "Contraseña"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Password"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
           }
         },
         "th" : {
@@ -1457,16 +1457,16 @@
             "value" : "Reproduce tu contenido en dispositivos de forma remota."
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I-play ang iyong nilalaman sa mga device nang remote."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisez votre contenu sur des appareils à distance."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기에서 원격으로 콘텐츠를 재생하세요."
           }
         },
         "th" : {
@@ -1515,16 +1515,16 @@
             "value" : "Preferencias"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mga Kagustuhan"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "환경설정"
           }
         },
         "th" : {
@@ -1573,16 +1573,16 @@
             "value" : "Privacidad"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Privacy"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confidentialité"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 보호"
           }
         },
         "th" : {
@@ -1631,16 +1631,16 @@
             "value" : "Perfil"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Profile"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로필"
           }
         },
         "th" : {
@@ -1689,16 +1689,16 @@
             "value" : "Continúa rápidamente donde lo dejaste o encuentra nuevos programas en Explorar."
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mabilis na ipagpatuloy kung saan ka tumigil o maghanap ng mga bagong palabas sa Browse."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중단한 지점에서 빠르게 이어서 보거나 탐색에서 새 프로그램을 찾아보세요."
           }
         },
         "th" : {
@@ -1747,16 +1747,16 @@
             "value" : "Calificar la app"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I-rate ang App"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Évaluer l'application"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 평가"
           }
         },
         "th" : {
@@ -1805,16 +1805,16 @@
             "value" : "Informar un problema"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iulat ang Problema"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signaler un problème"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제 신고"
           }
         },
         "th" : {
@@ -1863,16 +1863,16 @@
             "value" : "Reanuda episodios y elimina los que quieras omitir."
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ipagpatuloy ang mga episode at alisin ang anumang gusto mong laktawan."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "에피소드를 이어서 재생하고 건너뛰려는 항목은 제거하세요."
           }
         },
         "th" : {
@@ -1921,16 +1921,16 @@
             "value" : "Integración fluida con Github"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Walang putol na integrasyon ng Github"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégration transparente avec Github"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원활한 GitHub 통합"
           }
         },
         "th" : {
@@ -1979,16 +1979,16 @@
             "value" : "Configuración"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mga Setting"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "th" : {
@@ -2037,16 +2037,16 @@
             "value" : "Demostración del catálogo de cadenas"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "String Catalog Demo"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo du catalogue de chaînes de caractères"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog 데모"
           }
         },
         "th" : {
@@ -2095,16 +2095,16 @@
             "value" : "Soporte"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suporta"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지원"
           }
         },
         "th" : {
@@ -2153,16 +2153,16 @@
             "value" : "Los podcasts que compras en Suscripciones de Apple Podcasts están asociados con tu ID de Apple. Tu puntaje de confianza del dispositivo se utiliza para prevenir el fraude. Los datos sobre tu escucha de podcasts e interacciones también se utilizan para mejorar y personalizar el servicio y no están asociados con tu ID de Apple. Consulta cómo se gestionan tus datos..."
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ang mga podcast na binili mo sa Apple Podcasts Subscriptions ay naka-link sa iyong Apple ID. Ginagamit ang trust score ng iyong device upang maiwasan ang panlilinlang. Ang data tungkol sa iyong pakikinig at interaksyon sa podcast ay ginagamit din upang mapabuti at maiangkop ang serbisyo at hindi ito konektado sa iyong Apple ID. Tingnan kung paano pinamamahalaan ang iyong data..."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Podcasts 구독에서 구매한 팟캐스트는 Apple ID와 연결됩니다. 기기의 신뢰 점수는 사기 방지를 위해 사용됩니다. 팟캐스트 청취 및 상호작용과 관련된 데이터는 서비스 개선 및 개인화를 위해서도 사용되며 Apple ID와는 연결되지 않습니다. 데이터가 어떻게 관리되는지 알아보기..."
           }
         },
         "th" : {
@@ -2211,16 +2211,16 @@
             "value" : "Novedades en Orange Podcasts"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ano ang Bago sa Orange Podcasts"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quoi de neuf dans Orange Podcasts"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange Podcasts의 새로운 기능"
           }
         },
         "th" : {
@@ -2269,16 +2269,16 @@
             "value" : "Mundo"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mundo"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "세계"
           }
         },
         "th" : {
