@@ -4,6 +4,12 @@
     "CFBundleName" : {
       "comment" : "Bundle name",
       "localizations" : {
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22,13 +28,19 @@
             "value" : "StringCatalogDemo"
           }
         },
-        "fil" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
           }
         },
-        "fr" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -64,6 +76,12 @@
     "NSPhotoLibraryAddUsageDescription" : {
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "localizations" : {
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afegeix elements a les teves fotos. Prova."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -82,16 +100,22 @@
             "value" : "Agregar elementos a tus fotos"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Magdagdag ng mga item sa iyong mga larawan. Pagsusuri."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "写真に項目を追加します。テスト中です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진에 항목을 추가합니다. 테스트 중입니다."
           }
         },
         "th" : {
