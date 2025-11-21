@@ -22,13 +22,25 @@
             "value" : "StringCatalogDemo"
           }
         },
-        "fil" : {
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
           }
         },
-        "fr" : {
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StringCatalogDemo"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "StringCatalogDemo"
@@ -82,16 +94,28 @@
             "value" : "Agregar elementos a tus fotos"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Magdagdag ng mga item sa iyong mga larawan. Pagsusuri."
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ajouter des éléments à vos photos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "अपनी फ़ोटो में आइटम जोड़ें। परीक्षण।"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "写真に項目を追加します。テスト中です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사진에 항목을 추가합니다. 테스트 중입니다."
           }
         },
         "th" : {
