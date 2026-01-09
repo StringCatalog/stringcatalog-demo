@@ -3,6 +3,7 @@
   "strings" : {
     "%lld languages" : {
       "comment" : "plural title 1",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "variations" : {
@@ -167,6 +168,9 @@
           }
         }
       }
+    },
+    "%lld localizations" : {
+      "comment" : "plural title 1"
     },
     "%lld pics" : {
       "comment" : "plural title 2",
@@ -2308,5 +2312,5 @@
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }
