@@ -22,12 +22,6 @@
             "value" : "StringCatalogDemo"
           }
         },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "StringCatalogDemo"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,12 +74,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Agregar elementos a tus fotos"
-          }
-        },
-        "fil" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Magdagdag ng mga item sa iyong mga larawan. Pagsusuri."
           }
         },
         "fr" : {
