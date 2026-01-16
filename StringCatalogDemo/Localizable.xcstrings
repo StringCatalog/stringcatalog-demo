@@ -4,6 +4,24 @@
     "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
+        "da" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld sprog"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld sprog"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -171,6 +189,24 @@
     "%lld pics" : {
       "comment" : "plural title 2",
       "localizations" : {
+        "da" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld billede"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld billeder"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -337,6 +373,12 @@
     },
     "Account" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konto"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -396,6 +438,12 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AirPlay-funktion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -454,6 +502,24 @@
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "da" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-opdateringer"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "CarPlay-opdateringer"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "device" : {
@@ -620,6 +686,12 @@
     },
     "Centralized string management" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Centraliseret strengadministration"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -679,6 +751,12 @@
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanaler i bibliotek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -737,6 +815,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -796,6 +880,12 @@
     },
     "Dark Mode" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mørk tilstand"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -854,6 +944,12 @@
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få nem adgang til fulgte programmer og mere fra dine kanaler."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -912,6 +1008,12 @@
     },
     "Easy localization" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nem lokalisering"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -970,6 +1072,12 @@
     },
     "Email" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1029,6 +1137,12 @@
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Udforsk styrken ved lokalisering og meget mere!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1087,6 +1201,12 @@
     },
     "Hello " : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hej "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1147,6 +1267,12 @@
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hjælp"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1207,6 +1333,12 @@
       "comment" : "Description of a feature that allows users to resume episodes and skip content.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forbedret \"Næste\""
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1265,6 +1397,12 @@
     },
     "Learn More" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Få mere at vide"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1323,6 +1461,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifikationer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1381,6 +1525,12 @@
     },
     "Password" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adgangskode"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1439,6 +1589,12 @@
     },
     "Play your content on devices remotely." : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afspil dit indhold på eksterne enheder."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1497,6 +1653,12 @@
     },
     "Preferences" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indstillinger"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1555,6 +1717,12 @@
     },
     "Privacy" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privatliv"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1613,6 +1781,12 @@
     },
     "Profile" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1671,6 +1845,12 @@
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsæt hurtigt der, hvor du slap, eller find nye programmer i Gennemse."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1729,6 +1909,12 @@
     },
     "Rate App" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedøm appen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1787,6 +1973,12 @@
     },
     "Report a Problem" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapportér et problem"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1845,6 +2037,12 @@
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genoptag episoder, og fjern dem, du vil springe over."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1903,6 +2101,12 @@
     },
     "Seamless Github integration" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Problemfri GitHub-integration"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1961,6 +2165,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indstillinger"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2019,6 +2229,12 @@
     },
     "String Catalog Demo" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2077,6 +2293,12 @@
     },
     "Support" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2135,6 +2357,12 @@
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De podcasts, du køber i Apple Podcasts-abonnementer, er knyttet til dit Apple-id. Din enheds tillidsscore bruges til at forhindre svindel. Data om din podcastlytning og dine interaktioner bruges også til at forbedre og personalisere tjenesten og er ikke knyttet til dit Apple-id. Se, hvordan dine data håndteres..."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2193,6 +2421,12 @@
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyheder i Orange Podcasts"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2251,6 +2485,12 @@
     },
     "World" : {
       "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
