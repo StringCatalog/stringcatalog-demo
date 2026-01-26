@@ -62,7 +62,7 @@ struct ContentView: View {
                 Button(action: {
                     showIntro = true
                 }) {
-                    Text("Learn More")
+                    Text("Learn More!")
                         .fontWeight(.semibold)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
