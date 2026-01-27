@@ -56,6 +56,7 @@ struct ContentView: View {
                 .padding(.horizontal, 25)
                 .background(Color(UIColor.secondarySystemBackground))
                 .cornerRadius(15)
+                
                 Spacer()
                 
                 Button(action: {
