@@ -112,6 +112,42 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld שפה"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld שפות"
+                }
+              }
+            }
+          }
+        },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld bahasa"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld bahasa"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -297,6 +333,42 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld תמונה"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld תמונות"
+                }
+              }
+            }
+          }
+        },
+        "id" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld foto"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -409,6 +481,18 @@
             "value" : "Compte"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "חשבון"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akun"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -472,6 +556,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תכונת AirPlay"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitur Airplay"
           }
         },
         "th" : {
@@ -610,6 +706,42 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "עדכוני CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "עדכוני CarPlay"
+                }
+              }
+            }
+          }
+        },
+        "id" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Pembaruan CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Pembaruan CarPlay"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "device" : {
@@ -722,6 +854,18 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ניהול מרכזי של מחרוזות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manajemen string terpusat"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -787,6 +931,18 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ערוצים בספרייה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saluran di Perpustakaan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -846,6 +1002,18 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "id" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -916,6 +1084,18 @@
             "value" : "Mode sombre"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מצב כהה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode Gelap"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -978,6 +1158,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "גשו בקלות לתוכניות במעקב ולעוד מהערוצים שלכם."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akses dengan mudah acara yang Anda ikuti dan lainnya dari saluran Anda."
           }
         },
         "th" : {
@@ -1044,6 +1236,18 @@
             "value" : "Localisation facile"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לוקליזציה קלה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokalisasi yang mudah"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1106,6 +1310,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דוא\"ל"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
           }
         },
         "th" : {
@@ -1173,6 +1389,18 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "גלו את העוצמה של לוקליזציה ועוד!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jelajahi kekuatan lokalisasi dan lainnya!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1235,6 +1463,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שלום "
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halo "
           }
         },
         "th" : {
@@ -1303,6 +1543,18 @@
             "value" : "Aide"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עזרה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bantuan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1369,6 +1621,18 @@
             "value" : "Amélioration de la file d'attente"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up Next משופר"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up Next yang Ditingkatkan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1395,8 +1659,9 @@
         }
       }
     },
-    "Learn More" : {
-      "extractionState" : "stale",
+    "Learn More!" : {
+      "comment" : "A button label that directs the user to learn more about the app.",
+      "isCommentAutoGenerated" : true,
       "localizations" : {
         "da" : {
           "stringUnit" : {
@@ -1407,31 +1672,43 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Learn More"
+            "value" : "Learn More!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprender más"
+            "value" : "Más información"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Más información"
+            "value" : "¡Más información!"
           }
         },
         "fil" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Matuto Pa"
+            "value" : "Alamin Pa!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מידע נוסף!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pelajari Lebih Lanjut!"
           }
         },
         "th" : {
@@ -1459,10 +1736,6 @@
           }
         }
       }
-    },
-    "Learn More!" : {
-      "comment" : "A button label that directs the user to learn more about the app.",
-      "isCommentAutoGenerated" : true
     },
     "Notifications" : {
       "localizations" : {
@@ -1500,6 +1773,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "התראות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifikasi"
           }
         },
         "th" : {
@@ -1566,6 +1851,18 @@
             "value" : "Mot de passe"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "סיסמה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kata Sandi"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1628,6 +1925,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisez votre contenu sur des appareils à distance."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הפעל את התוכן שלך במכשירים מרחוק."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Putar konten Anda di perangkat dari jarak jauh."
           }
         },
         "th" : {
@@ -1694,6 +2003,18 @@
             "value" : "Préférences"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "העדפות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferensi"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1756,6 +2077,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confidentialité"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פרטיות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privasi"
           }
         },
         "th" : {
@@ -1822,6 +2155,18 @@
             "value" : "Profil"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פרופיל"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profil"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1850,7 +2195,81 @@
     },
     "Project Settings" : {
       "comment" : "The title of a button in the top-right corner of the screen that takes you to project settings.",
-      "isCommentAutoGenerated" : true
+      "isCommentAutoGenerated" : true,
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projektindstillinger"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Project Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración del proyecto"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración del proyecto"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mga Setting ng Proyekto"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres du projet"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הגדרות הפרויקט"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan Proyek"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "การตั้งค่าโปรเจ็กต์"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "项目设置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "專案設定"
+          }
+        },
+        "zh-HK" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "專案設定"
+          }
+        }
+      }
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
@@ -1888,6 +2307,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "המשיכו במהירות מהמקום שבו הפסקתם או מצאו תוכניות חדשות ב-Browse."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lanjutkan dengan cepat dari tempat Anda berhenti atau temukan acara baru di Jelajahi."
           }
         },
         "th" : {
@@ -1954,6 +2385,18 @@
             "value" : "Évaluer l'application"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דרג את האפליקציה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nilai Aplikasi"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2016,6 +2459,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signaler un problème"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דיווח על בעיה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laporkan Masalah"
           }
         },
         "th" : {
@@ -2082,6 +2537,18 @@
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "המשיכו לנגן פרקים והסירו את אלה שברצונכם לדלג עליהם."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lanjutkan episode dan hapus mana pun yang ingin Anda lewati."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2144,6 +2611,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégration transparente avec Github"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "אינטגרציה חלקה עם GitHub"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Integrasi Github yang mulus"
           }
         },
         "th" : {
@@ -2210,6 +2689,18 @@
             "value" : "Paramètres"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הגדרות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pengaturan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2272,6 +2763,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo du catalogue de chaînes de caractères"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הדגמת קטלוג מחרוזות"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
           }
         },
         "th" : {
@@ -2338,6 +2841,18 @@
             "value" : "Support"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תמיכה"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dukungan"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2400,6 +2915,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הפודקאסטים שאתה רוכש ב־Apple Podcasts Subscriptions משויכים ל־Apple ID שלך. ציון האמון של המכשיר שלך משמש למניעת הונאה. נתונים על האזנתך לפודקאסטים ועל האינטראקציות שלך משמשים גם לשיפור ולהתאמה אישית של השירות, ואינם משויכים ל־Apple ID שלך. ראה כיצד מנוהלים הנתונים שלך..."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podcast yang Anda beli di Apple Podcasts Subscriptions dikaitkan dengan Apple ID Anda. Skor kepercayaan perangkat Anda digunakan untuk mencegah penipuan. Data tentang kebiasaan mendengarkan podcast dan interaksi Anda juga digunakan untuk meningkatkan dan mempersonalisasi layanan dan tidak dikaitkan dengan Apple ID Anda. Lihat cara data Anda dikelola..."
           }
         },
         "th" : {
@@ -2466,6 +2993,18 @@
             "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מה חדש ב-Orange Podcasts"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yang Baru di Orange Podcasts"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2528,6 +3067,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עולם"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunia"
           }
         },
         "th" : {
