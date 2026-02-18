@@ -4,6 +4,24 @@
     "%lld languages" : {
       "comment" : "plural title 1",
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld لغة"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld لغات"
+                }
+              }
+            }
+          }
+        },
         "da" : {
           "variations" : {
             "plural" : {
@@ -189,6 +207,24 @@
     "%lld pics" : {
       "comment" : "plural title 2",
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld صورة"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld صور"
+                }
+              }
+            }
+          }
+        },
         "da" : {
           "variations" : {
             "plural" : {
@@ -373,6 +409,12 @@
     },
     "Account" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحساب"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -438,6 +480,12 @@
     "Airplay Feature" : {
       "comment" : "airplay feature comment",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ميزة AirPlay"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -502,6 +550,24 @@
     },
     "CarPlay Updates" : {
       "localizations" : {
+        "ar" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "تحديثات CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "تحديثات CarPlay"
+                }
+              }
+            }
+          }
+        },
         "da" : {
           "variations" : {
             "device" : {
@@ -686,6 +752,12 @@
     },
     "Centralized string management" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدارة مركزية للسلاسل النصية"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -751,6 +823,12 @@
     "Channels in Library" : {
       "comment" : "channel title",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القنوات في المكتبة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -815,6 +893,12 @@
     },
     "Continue" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -880,6 +964,12 @@
     },
     "Dark Mode" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوضع الداكن"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -944,6 +1034,12 @@
     },
     "Easily access followed shows and more from your channels." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكنك الوصول بسهولة إلى البرامج التي تتابعها والمزيد من خلال قنواتك."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1008,6 +1104,12 @@
     },
     "Easy localization" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "توطين سهل"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1072,6 +1174,12 @@
     },
     "Email" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البريد الإلكتروني"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1137,6 +1245,12 @@
     "Explore the power of localization and more!" : {
       "comment" : "secondary title",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استكشف قوة التوطين والمزيد!"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1201,6 +1315,12 @@
     },
     "Hello " : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبًا "
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1267,6 +1387,12 @@
       "comment" : "Text displayed in the \"Support\" section of the settings menu.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مساعدة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1333,6 +1459,12 @@
       "comment" : "Description of a feature that allows users to resume episodes and skip content.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ميزة «التالي» المحسّنة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1398,6 +1530,12 @@
     "Learn More" : {
       "extractionState" : "stale",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرفة المزيد"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1462,6 +1600,12 @@
     },
     "Learn More about String Catalog!" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعرّف على المزيد حول String Catalog!"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1526,6 +1670,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإشعارات"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1590,6 +1740,12 @@
     },
     "Password" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كلمة المرور"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1654,6 +1810,12 @@
     },
     "Play your content on devices remotely." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شغِّل المحتوى الخاص بك على الأجهزة عن بُعد."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1718,6 +1880,12 @@
     },
     "Preferences" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التفضيلات"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1782,6 +1950,12 @@
     },
     "Privacy" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الخصوصية"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1846,6 +2020,12 @@
     },
     "Profile" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الملف الشخصي"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1912,6 +2092,12 @@
       "comment" : "The title of a button in the top-right corner of the screen that takes you to project settings.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعدادات المشروع"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1976,6 +2162,12 @@
     },
     "Quickly pick up where you left off or find new shows in Browse." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استأنف بسرعة من حيث توقفت أو اعثر على برامج جديدة في \"تصفّح\"."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2040,6 +2232,12 @@
     },
     "Rate App" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قيّم التطبيق"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2104,6 +2302,12 @@
     },
     "Report a Problem" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإبلاغ عن مشكلة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2168,6 +2372,12 @@
     },
     "Resume episodes and remove any you want to skip." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استأنف الحلقات واحذف أي حلقات تريد تخطيها."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2232,6 +2442,12 @@
     },
     "Seamless Github integration" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تكامل سلس مع GitHub"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2296,6 +2512,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإعدادات"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2360,6 +2582,12 @@
     },
     "String Catalog Demo" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2424,6 +2652,12 @@
     },
     "Support" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الدعم"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2488,6 +2722,12 @@
     },
     "The podcasts you purchase in Apple Podcasts Subscriptions are associated with your Apple ID. Your device trust score is used to prevent fraud. Data on your podcast listening and interactions is also used to improve and personalize the service and is not associated with your Apple ID. See how your data is managed..." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تكون ملفات البودكاست التي تشتريها في اشتراكات Apple Podcasts مرتبطة بمعرّف Apple ID الخاص بك. وتُستخدَم درجة موثوقية جهازك للمساعدة في منع الاحتيال. كما تُستخدَم بيانات استماعك إلى البودكاست وتفاعلاتك لتحسين الخدمة وتخصيصها، ولا يتم ربطها بمعرّف Apple ID الخاص بك. اطّلع على كيفية إدارة بياناتك..."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2552,6 +2792,12 @@
     },
     "What's New in Orange Podcasts" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ما الجديد في Orange Podcasts"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2616,6 +2862,12 @@
     },
     "World" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العالم"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
