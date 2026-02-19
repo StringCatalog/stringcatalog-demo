@@ -112,6 +112,24 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld שפה"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld שפות"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -297,6 +315,24 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld תמונה"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld תמונות"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "plural" : {
@@ -409,6 +445,12 @@
             "value" : "Compte"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "חשבון"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -472,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fonction Airplay"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תכונת AirPlay"
           }
         },
         "th" : {
@@ -610,6 +658,24 @@
             }
           }
         },
+        "he" : {
+          "variations" : {
+            "device" : {
+              "ipod" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "עדכוני CarPlay"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "עדכוני CarPlay"
+                }
+              }
+            }
+          }
+        },
         "th" : {
           "variations" : {
             "device" : {
@@ -722,6 +788,12 @@
             "value" : "Gestion centralisée des chaînes de caractères"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ניהול מחרוזות מרכזי"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -787,6 +859,12 @@
             "value" : "Chaînes dans la bibliothèque"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ערוצים בספרייה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -846,6 +924,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "he" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue"
@@ -916,6 +1000,12 @@
             "value" : "Mode sombre"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מצב כהה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -978,6 +1068,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Accédez facilement aux émissions suivies et plus encore depuis vos chaînes."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "גש בקלות לתוכניות שאתה עוקב אחריהן ולעוד מהערוצים שלך."
           }
         },
         "th" : {
@@ -1044,6 +1140,12 @@
             "value" : "Localisation facile"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "לוקליזציה קלה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1106,6 +1208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-mail"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דוא\"ל"
           }
         },
         "th" : {
@@ -1173,6 +1281,12 @@
             "value" : "Explorez le pouvoir de la localisation et plus encore !"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "גלה את העוצמה של הלוקליזציה ועוד!"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1235,6 +1349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonjour "
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "שלום "
           }
         },
         "th" : {
@@ -1303,6 +1423,12 @@
             "value" : "Aide"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עזרה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1367,6 +1493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amélioration de la file d'attente"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Up Next משופר"
           }
         },
         "th" : {
@@ -1434,6 +1566,12 @@
             "value" : "En savoir plus"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מידע נוסף"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1496,6 +1634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "En savoir plus sur String Catalog !"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מידע נוסף על String Catalog!"
           }
         },
         "th" : {
@@ -1562,6 +1706,12 @@
             "value" : "Notifications"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "התראות"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1624,6 +1774,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "סיסמה"
           }
         },
         "th" : {
@@ -1690,6 +1846,12 @@
             "value" : "Lisez votre contenu sur des appareils à distance."
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הפעל את התוכן שלך במכשירים מרוחקים."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1752,6 +1914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Préférences"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "העדפות"
           }
         },
         "th" : {
@@ -1818,6 +1986,12 @@
             "value" : "Confidentialité"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פרטיות"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1880,6 +2054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פרופיל"
           }
         },
         "th" : {
@@ -1948,6 +2128,12 @@
             "value" : "Paramètres du projet"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הגדרות הפרויקט"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2010,6 +2196,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reprenez rapidement là où vous vous étiez arrêté ou trouvez de nouvelles émissions dans Parcourir."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "חזרו במהירות לנקודה שבה הפסקתם או מצאו תוכניות חדשות במדור \"עיון\"."
           }
         },
         "th" : {
@@ -2076,6 +2268,12 @@
             "value" : "Évaluer l'application"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דרג את האפליקציה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2138,6 +2336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Signaler un problème"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "דיווח על בעיה"
           }
         },
         "th" : {
@@ -2204,6 +2408,12 @@
             "value" : "Reprenez les épisodes et supprimez ceux que vous souhaitez ignorer."
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "המשיכו להאזין לפרקים והסירו כל פרק שתרצו לדלג עליו."
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2266,6 +2476,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intégration transparente avec Github"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "אינטגרציה חלקה עם Github"
           }
         },
         "th" : {
@@ -2332,6 +2548,12 @@
             "value" : "Paramètres"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "הגדרות"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2394,6 +2616,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Démo du catalogue de chaînes de caractères"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "String Catalog Demo"
           }
         },
         "th" : {
@@ -2460,6 +2688,12 @@
             "value" : "Support"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תמיכה"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2522,6 +2756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Les podcasts que vous achetez dans les abonnements Apple Podcasts sont associés à votre identifiant Apple. Votre score de confiance de l'appareil est utilisé pour prévenir la fraude. Les données sur votre écoute de podcasts et vos interactions sont également utilisées pour améliorer et personnaliser le service et ne sont pas associées à votre identifiant Apple. Découvrez comment vos données sont gérées..."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "פודקאסטים שאתם רוכשים דרך Apple Podcasts Subscriptions משויכים ל-Apple ID שלכם. ציון האמון של המכשיר שלכם משמש למניעת הונאות. נתונים על האזנה לפודקאסטים והאינטראקציות שלכם משמשים גם לשיפור ולהתאמה אישית של השירות, ואינם משויכים ל-Apple ID שלכם. ראו כיצד הנתונים שלכם מנוהלים..."
           }
         },
         "th" : {
@@ -2588,6 +2828,12 @@
             "value" : "Quoi de neuf dans Orange Podcasts"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "מה חדש ב-Orange Podcasts"
+          }
+        },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2650,6 +2896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monde"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "עולם"
           }
         },
         "th" : {
