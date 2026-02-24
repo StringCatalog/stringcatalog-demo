@@ -73,7 +73,7 @@ struct ContentView: View {
             }
             .toolbar(content: {
                 ToolbarItem(placement: .topBarTrailing) {
-                    Button("Project Settings", systemImage: "gear") {
+                    Button("App Settings", systemImage: "gear") {
                          
                     }
                 }
