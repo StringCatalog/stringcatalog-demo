@@ -73,7 +73,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilføj elementer til dine billeder. Test."
+            "value" : "Tilføj elementer til dine fotos. Test."
           }
         },
         "en" : {
@@ -85,13 +85,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añade elementos a tus fotos. Prueba."
+            "value" : "Añade elementos a tus fotos. Pruebas."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar elementos a tus fotos"
+            "value" : "Agregar elementos a tus fotos. Prueba."
           }
         },
         "fil" : {
@@ -103,31 +103,31 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter des éléments à vos photos"
+            "value" : "Ajouter des éléments à vos photos. Test en cours."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มรายการในรูปภาพของคุณ การทดสอบ"
+            "value" : "เพิ่มรายการไปยังรูปภาพของคุณ การทดสอบ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将项目添加到您的照片中。测试。"
+            "value" : "向你的照片添加项目。测试中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將項目添加到您的照片。測試中。"
+            "value" : "將項目加入你的照片。測試中。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將項目添加到您的照片。測試中。"
+            "value" : "將項目加入你的相片。測試中。"
           }
         }
       }

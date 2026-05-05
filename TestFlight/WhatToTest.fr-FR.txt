@@ -1,4 +1,1 @@
-La mise à jour 4.0 est disponible !
-
-Nouveautés :
-prise en charge du mode sombre, démarrage plus rapide et accès hors ligne amélioré
+Ceci est seulement un test.
